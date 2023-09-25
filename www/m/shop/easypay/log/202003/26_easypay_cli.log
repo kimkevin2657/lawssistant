@@ -1,0 +1,10 @@
+0326-140711.866 - 44529 - 20032614063410110641 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20032614062465]
+0326-140711.872 - 44529 - 20032614063410110641 - MSG : PG_서버_접속__정상
+0326-140711.882 - 44529 - 20032614063410110641 - MSG : PG_서버_요청_전문_전송__정상
+0326-140712.263 - 44529 - 20032614063410110641 - MSG : PG_서버_응답_전문_수신__정상
+0326-140712.263 - 44529 - 20032614063410110641 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20032614063410110641order_no=20032614062465amount=70100auth_no=20712791tran_date=20200326140712card_no=377988050000062issuer_cd=029issuer_nm=신한카드acquirer_cd=029acquirer_nm=신한카드noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=261421988651pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=yRFe3mHk77vdWZyWJ9s28bnz9mlBYzDhE5aN4H2VpKA=user_nm=최연정user_id=01046322715bk_pay_yn=N]
+0326-142623.714 - 18467 - 20032614253610129820 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20032614252674]
+0326-142623.720 - 18467 - 20032614253610129820 - MSG : PG_서버_접속__정상
+0326-142623.731 - 18467 - 20032614253610129820 - MSG : PG_서버_요청_전문_전송__정상
+0326-142624.230 - 18467 - 20032614253610129820 - MSG : PG_서버_응답_전문_수신__정상
+0326-142624.231 - 18467 - 20032614253610129820 - MSG : ENDED - res=[res_cd=0000res_msg=ISP결제 정상cno=20032614253610129820order_no=20032614252674amount=16800auth_no=30048915tran_date=20200326142624card_no=5409474700001017issuer_cd=016issuer_nm=KB MASTER 카드acquirer_cd=016acquirer_nm=국민카드noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=261412106595pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=IXLWs6Kj5JNTY2NApuXEqThwSyz7rJvHldEUPPfRZuU=user_nm=김효정vp_cardcode=050204040090611user_id=01089726446bk_pay_yn=N]

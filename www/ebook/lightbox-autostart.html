@@ -1,0 +1,149 @@
+<html>
+  <head>
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+   
+    <!-- viewport -->
+    <meta content="width=device-width,initial-scale=1" name="viewport">
+       
+    <!-- title -->
+    <title>lightbox Newspaper FlipBook -jQuery</title>
+        
+        
+    <!-- add css style -->
+    <link type="text/css" href="css/style.css" rel="stylesheet">
+	<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Play:400,700">
+    <link type="text/css" href="css/font-awesome.min.css" rel="stylesheet">
+    
+    <!-- add js code -->
+	<script src="js/jquery.js"></script>
+    <script src="js/jquery_no_conflict.js"></script>
+    <script src="js/turn.js"></script>              
+    <script src="js/wait.js"></script>
+    <script src="js/jquery.mousewheel.js"></script>
+	<script src="js/jquery.fullscreen.js"></script>
+    <script src="js/jquery.address-1.6.min.js"></script>
+	<script src="js/pdf.js"></script>
+	<script src="js/onload.js"></script>
+
+
+	<style>
+	
+    html, body {
+        margin: 0;
+        padding: 0;
+		overflow:auto !important;
+		width:100%;
+		height:100%;
+    }
+	
+				
+	.bcg-intro{			
+			  border:1px solid #033;
+			  width:100%;
+			  height:100%;
+			  background: none no-repeat center center;
+			  background-size:cover;
+			 -moz-background-size:cover;
+			 -webkit-background-size:cover;
+			 /* background-image:url(img/bg.png);/*/
+			 background-color:#CCCCCC;
+			 
+		}
+		
+      .btn{		
+			text-decoration:none;			
+			color:#FFFFFF;
+			border-radius: 8px 8px 8px 8px;
+			padding:10px;
+			font-size:17px;
+			font-family:Arial;
+			font-weigh:normal;		
+			background-color: #666666;
+			color: #FFFFFF; 
+			display:block;
+			/*float:left;/*/
+		    margin:10px;
+			text-align:center;
+			width:200px;
+			opacity:1;
+		
+		}
+		
+		
+		img{		
+	        display: block;
+            margin: 0 auto;
+		}
+		
+		
+		p {
+			text-align:center;
+			font-family:Verdana, Geneva, sans-serif;
+			size:13px;
+			
+			
+		}
+
+		
+		.cont-btn{
+		  display:block;
+		  position:absolute;
+		  left:50%;
+		  top:50%;
+		  margin:0px;
+	      padding:0px;
+		  margin-left:-110px;
+		  -webkit-transform: translate(0,-50%);
+		  transform: translate(0,-50%);
+		
+		}
+				
+    </style> 
+      
+  </head> 
+  
+<body>
+  
+  
+<!--
+ATTRIBUTES FLIPBOOK DESCRIPTION:
+href ==>  your name flipbook to 'your_book_name' (must be unique and only lowercase letters with no whitespace) 
+data-content ==>  pathway to content flipbook
+data-config ==>  pathway to configuraton flipbook
+-->
+
+  
+
+<div class="bcg-intro"> 
+     <div class="cont-btn">
+    
+    <p>
+    Click on the button or image
+    </p>      
+    
+    <!-- begin flipbook lightbox code  -->
+    <a class="btn" href="load_book_lightbox('your_book_name',true)" data-content="lightbox/content.html" data-config="lightbox/config.html"  target="_blank">Button</a>
+    <!-- end flipbook lightbox code  -->
+
+    
+    <!-- begin flipbook lightbox code  -->
+    <a href="load_book_lightbox('your_book_name',true)" data-content="lightbox/content.html" data-config="lightbox/config.html"  target="_blank"><img src="pages/1_.jpg"/></a>
+     <!-- end flipbook lightbox code  -->
+
+      </div>
+
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

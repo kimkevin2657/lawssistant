@@ -1,0 +1,5 @@
+0118-214433.239 - 23714 - 20011821434810645462 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20011821434382]
+0118-214433.248 - 23714 - 20011821434810645462 - MSG : PG_서버_접속__정상
+0118-214433.258 - 23714 - 20011821434810645462 - MSG : PG_서버_요청_전문_전송__정상
+0118-214433.676 - 23714 - 20011821434810645462 - MSG : PG_서버_응답_전문_수신__정상
+0118-214433.676 - 23714 - 20011821434810645462 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20011821434810645462order_no=20011821434382amount=198200auth_no=99981953tran_date=20200118214433card_no=9410106900006369issuer_cd=031issuer_nm=삼성카드acquirer_cd=031acquirer_nm=삼성카드사noint=03install_period=03used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=182111951293pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=D7qL3PhW2DF/Oj5XaiYllhD0VBvnrHxhIclKLmenLHs=user_nm=이세정user_id=01066900959bk_pay_yn=N]

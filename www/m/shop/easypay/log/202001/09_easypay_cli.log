@@ -1,0 +1,15 @@
+0109-234931.791 - 25396 - 20010923485610579848 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20010923471129]
+0109-234931.798 - 25396 - 20010923485610579848 - MSG : PG_서버_접속__정상
+0109-234931.808 - 25396 - 20010923485610579848 - MSG : PG_서버_요청_전문_전송__정상
+0109-234932.271 - 25396 - 20010923485610579848 - MSG : PG_서버_응답_전문_수신__정상
+0109-234932.271 - 25396 - 20010923485610579848 - MSG : ENDED - res=[res_cd=0000res_msg=인증+승인 정상cno=20010923485610579848order_no=20010923471129amount=140000auth_no=00580316tran_date=20200109234931card_no=6243680000004438issuer_cd=027issuer_nm=현대 카드acquirer_cd=027acquirer_nm=현대카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=092311276248pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=q6U40dIOL9cWHWsEwIK5GJt8a5eDaa29FfOrNWNV33s=user_nm=관리자user_id=adminbk_pay_yn=N]
+0109-234932.283 - 25398 - 0554246519FmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[20010923471129]
+0109-234932.291 - 25398 - 0554246519FmoqMp     - MSG : PG_서버_접속__정상
+0109-234932.301 - 25398 - 0554246519FmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0109-234932.492 - 25398 - 0554246519FmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0109-234932.492 - 25398 - 0554246519FmoqMp     - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20010923485610579848order_no=20010923471129amount=140000tran_date=20200109234932remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200109234932stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=05542465noti_type=20mgr_amt=140000mgr_card_amt=140000mgr_cpon_amt=0mgr_seqno=20010923493210580392day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0109-235711.137 - 26323 - 20010923555410586698 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20010923471129]
+0109-235711.143 - 26323 - 20010923555410586698 - MSG : PG_서버_접속__정상
+0109-235711.153 - 26323 - 20010923555410586698 - MSG : PG_서버_요청_전문_전송__정상
+0109-235711.530 - 26323 - 20010923555410586698 - MSG : PG_서버_응답_전문_수신__정상
+0109-235711.530 - 26323 - 20010923555410586698 - MSG : ENDED - res=[res_cd=0000res_msg=인증+승인 정상cno=20010923555410586698order_no=20010923471129amount=140000auth_no=00682063tran_date=20200109235711card_no=6243680000004438issuer_cd=027issuer_nm=현대 카드acquirer_cd=027acquirer_nm=현대카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=092312289629pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=q6U40dIOL9cWHWsEwIK5GJt8a5eDaa29FfOrNWNV33s=user_nm=관리자user_id=adminbk_pay_yn=N]

@@ -1,0 +1,10 @@
+0204-092342.582 - 30913 - 20020409221610620871 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20020409221373]
+0204-092342.587 - 30913 - 20020409221610620871 - MSG : PG_서버_접속__정상
+0204-092342.598 - 30913 - 20020409221610620871 - MSG : PG_서버_요청_전문_전송__정상
+0204-092343.019 - 30913 - 20020409221610620871 - MSG : PG_서버_응답_전문_수신__정상
+0204-092343.020 - 30913 - 20020409221610620871 - MSG : ENDED - res=[res_cd=0000res_msg=ISP결제 정상cno=20020409221610620871order_no=20020409221373amount=14600auth_no=30022625tran_date=20200204092343card_no=4332901400002025issuer_cd=016issuer_nm=KB VISA 카드acquirer_cd=016acquirer_nm=국민카드noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=040922737194pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=sXb1UU0Tch+7ht0t/3AcvvrZihqRq7lHpVhp2RBqeSw=user_nm=관리자vp_cardcode=040204040090571user_id=adminbk_pay_yn=N]
+0204-092408.265 - 30946 - 0554246524FmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[1682243525]
+0204-092408.273 - 30946 - 0554246524FmoqMp     - MSG : PG_서버_접속__정상
+0204-092408.283 - 30946 - 0554246524FmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0204-092408.582 - 30946 - 0554246524FmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0204-092408.582 - 30946 - 0554246524FmoqMp     - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20020409221610620871order_no=20020409221373amount=14600tran_date=20200204092409remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200204092409stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=05542465noti_type=20mgr_amt=14600mgr_card_amt=14600mgr_cpon_amt=0mgr_seqno=20020409240810623053day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]

@@ -1,0 +1,104 @@
+[2019/03/12 16:44:51] Request
+[2019/03/12 16:44:51] {"PR_TYPE":"WPM","channelType":"4","MERCHANT_ID":"**********","MERCHANT_TXN_NUM":"19031216444493","PRODUCT_NAME":"λ΅μ–„ λ² νƒ€μΉ΄λ΅ν‹΄ λ£¨ν…μΈ (400mg x 30μΊ…μ…€)/μ¶”κ°€ν¬μΈνΈ ν• μΈ 58%","AMOUNT":"19500","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"","OFFER_PERIOD":"","NO_INT_YN":"","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"","POSSI_CARD":"","BLOCK_CARD":"","SUPPLY_AMT":"19500","GOODS_VAT":"0","SERVICE_AMT":"0","PAYMENT_HASH":"240518296091733D5E07AA5DDCF8836A8CE9EA6B6DBFE680ABD316C69C377917"}
+[2019/03/12 16:44:51] 
+                      [PR_TYPE] => WPM
+                      [channelType] => 4
+                      [MERCHANT_TXN_NUM] => 19031216444493
+                      [PRODUCT_NAME] => λ΅μ–„ λ² νƒ€μΉ΄λ΅ν‹΄ λ£¨ν…μΈ (400mg x 30μΊ…μ…€)/μ¶”κ°€ν¬μΈνΈ ν• μΈ 58%
+                      [AMOUNT] => 19500
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => 
+                      [OFFER_PERIOD] => 
+                      [NO_INT_YN] => 
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => 
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [SUPPLY_AMT] => 19500
+                      [GOODS_VAT] => 0
+                      [SERVICE_AMT] => 0
+                      [PAYMENT_HASH] => 240518296091733D5E07AA5DDCF8836A8CE9EA6B6DBFE680ABD316C69C377917
+[2019/03/12 16:44:51] Result
+[2019/03/12 16:44:51] §R΅†βΙRΨ°2ζγmΑ[y>V~¥W9 H½;ο­ÿ£JrMϋOPΙ;»$WKÿ©…%d†yNjj|WΥ“s/ΏΔ\³Ξ;[*G[ΎΏΰ`Ζ
+[2019/03/12 16:44:51] 
+[2019/03/12 21:39:17] Request
+[2019/03/12 21:39:17] {"PR_TYPE":"WPM","channelType":"4","MERCHANT_ID":"**********","MERCHANT_TXN_NUM":"19031221383339","PRODUCT_NAME":"μ—¬μλ¥Ό μ„ν• μ„λ¥λ§(70ml x 30ν¬)μ„λ¥λ†μ¶•μ•΅ 100%ν•¨μ /μ‡Όν•‘λ°±ν¬ν•¨/μ¶”κ°€ν¬μΈνΈ ν• μΈ 64%","AMOUNT":"99000","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"","OFFER_PERIOD":"","NO_INT_YN":"","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"","POSSI_CARD":"","BLOCK_CARD":"","SUPPLY_AMT":"99000","GOODS_VAT":"0","SERVICE_AMT":"0","PAYMENT_HASH":"DF535925C03D10A05228AB9B63DF309EC51D8DFBB2236501EBF81F7574F121B0"}
+[2019/03/12 21:39:17] 
+                      [PR_TYPE] => WPM
+                      [channelType] => 4
+                      [MERCHANT_TXN_NUM] => 19031221383339
+                      [PRODUCT_NAME] => μ—¬μλ¥Ό μ„ν• μ„λ¥λ§(70ml x 30ν¬)μ„λ¥λ†μ¶•μ•΅ 100%ν•¨μ /μ‡Όν•‘λ°±ν¬ν•¨/μ¶”κ°€ν¬μΈνΈ ν• μΈ 64%
+                      [AMOUNT] => 99000
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => 
+                      [OFFER_PERIOD] => 
+                      [NO_INT_YN] => 
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => 
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [SUPPLY_AMT] => 99000
+                      [GOODS_VAT] => 0
+                      [SERVICE_AMT] => 0
+                      [PAYMENT_HASH] => DF535925C03D10A05228AB9B63DF309EC51D8DFBB2236501EBF81F7574F121B0
+[2019/03/12 21:39:17] Result
+[2019/03/12 21:39:17] §R΅†βΙRΨ°2ζγmΑ[y>V~¥W9 H½;ο­ÿ£JrMϋOPΙ;»$WKÿ©…%d†yNjj|WΥ“s/ΏΔ\³Ξ;[*G[ΎΏΰ`Ζ
+[2019/03/12 21:39:17] 
+[2019/03/12 21:44:15] Request
+[2019/03/12 21:44:15] {"PR_TYPE":"WPM","channelType":"4","MERCHANT_ID":"**********","MERCHANT_TXN_NUM":"19031221433864","PRODUCT_NAME":"μ—¬μλ¥Ό μ„ν• μ„λ¥λ§(70ml x 30ν¬)μ„λ¥λ†μ¶•μ•΅ 100%ν•¨μ /μ‡Όν•‘λ°±ν¬ν•¨/μ¶”κ°€ν¬μΈνΈ ν• μΈ 64%","AMOUNT":"99000","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"","OFFER_PERIOD":"","NO_INT_YN":"","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"","POSSI_CARD":"","BLOCK_CARD":"","SUPPLY_AMT":"99000","GOODS_VAT":"0","SERVICE_AMT":"0","PAYMENT_HASH":"2B6B314759EF41B535CB51E8E47519567ADC9E3EE99B1D6A005AC3AC719FF2AD"}
+[2019/03/12 21:44:15] 
+                      [PR_TYPE] => WPM
+                      [channelType] => 4
+                      [MERCHANT_TXN_NUM] => 19031221433864
+                      [PRODUCT_NAME] => μ—¬μλ¥Ό μ„ν• μ„λ¥λ§(70ml x 30ν¬)μ„λ¥λ†μ¶•μ•΅ 100%ν•¨μ /μ‡Όν•‘λ°±ν¬ν•¨/μ¶”κ°€ν¬μΈνΈ ν• μΈ 64%
+                      [AMOUNT] => 99000
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => 
+                      [OFFER_PERIOD] => 
+                      [NO_INT_YN] => 
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => 
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [SUPPLY_AMT] => 99000
+                      [GOODS_VAT] => 0
+                      [SERVICE_AMT] => 0
+                      [PAYMENT_HASH] => 2B6B314759EF41B535CB51E8E47519567ADC9E3EE99B1D6A005AC3AC719FF2AD
+[2019/03/12 21:44:15] Result
+[2019/03/12 21:44:15] §R΅†βΙRΨ°2ζγmΑ[y>V~¥W9 H½;ο­ÿ£JrMϋOPΙ;»$WKÿ©…%d†yNjj|WΥ“s/ΏΔ\³Ξ;[*G[ΎΏΰ`Ζ
+[2019/03/12 21:44:15] 
+[2019/03/12 21:45:30] Request
+[2019/03/12 21:45:30] {"PR_TYPE":"WPM","channelType":"4","MERCHANT_ID":"**********","MERCHANT_TXN_NUM":"19031221433864","PRODUCT_NAME":"μ—¬μλ¥Ό μ„ν• μ„λ¥λ§(70ml x 30ν¬)μ„λ¥λ†μ¶•μ•΅ 100%ν•¨μ /μ‡Όν•‘λ°±ν¬ν•¨/μ¶”κ°€ν¬μΈνΈ ν• μΈ 64%","AMOUNT":"99000","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"","OFFER_PERIOD":"","NO_INT_YN":"","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"","POSSI_CARD":"","BLOCK_CARD":"","SUPPLY_AMT":"99000","GOODS_VAT":"0","SERVICE_AMT":"0","PAYMENT_HASH":"2B6B314759EF41B535CB51E8E47519567ADC9E3EE99B1D6A005AC3AC719FF2AD"}
+[2019/03/12 21:45:30] 
+                      [PR_TYPE] => WPM
+                      [channelType] => 4
+                      [MERCHANT_TXN_NUM] => 19031221433864
+                      [PRODUCT_NAME] => μ—¬μλ¥Ό μ„ν• μ„λ¥λ§(70ml x 30ν¬)μ„λ¥λ†μ¶•μ•΅ 100%ν•¨μ /μ‡Όν•‘λ°±ν¬ν•¨/μ¶”κ°€ν¬μΈνΈ ν• μΈ 64%
+                      [AMOUNT] => 99000
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => 
+                      [OFFER_PERIOD] => 
+                      [NO_INT_YN] => 
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => 
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [SUPPLY_AMT] => 99000
+                      [GOODS_VAT] => 0
+                      [SERVICE_AMT] => 0
+                      [PAYMENT_HASH] => 2B6B314759EF41B535CB51E8E47519567ADC9E3EE99B1D6A005AC3AC719FF2AD
+[2019/03/12 21:45:30] Result
+[2019/03/12 21:45:30] §R΅†βΙRΨ°2ζγmΑ[y>V~¥W9 H½;ο­ÿ£JrMϋOPΙ;»$WKÿ©…%d†yNjj|WΥ“s/ΏΔ\³Ξ;[*G[ΎΏΰ`Ζ
+[2019/03/12 21:45:30] 

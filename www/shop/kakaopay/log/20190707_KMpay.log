@@ -1,0 +1,26 @@
+[2019/07/07 21:29:37] Request
+[2019/07/07 21:29:37] {"PR_TYPE":"MPM","channelType":"4","MERCHANT_ID":"**********","MERCHANT_TXN_NUM":"19070721292824","PRODUCT_NAME":"ë‹¥í„°ì›° EMS ë‚˜ë¹„ ì €ì£¼íŒŒ ë§ˆì‚¬ì§€ê¸° HDW-330","AMOUNT":"96500","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"","OFFER_PERIOD":"","NO_INT_YN":"","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"","POSSI_CARD":"","BLOCK_CARD":"","SUPPLY_AMT":"87727","GOODS_VAT":"8773","SERVICE_AMT":"0","PAYMENT_HASH":"301E2B18B12B67F4492BE27B20878BDC5BCCF96535289FF84A6529D83812177F"}
+[2019/07/07 21:29:37] 
+                      [PR_TYPE] => MPM
+                      [channelType] => 4
+                      [MERCHANT_TXN_NUM] => 19070721292824
+                      [PRODUCT_NAME] => ë‹¥í„°ì›° EMS ë‚˜ë¹„ ì €ì£¼íŒŒ ë§ˆì‚¬ì§€ê¸° HDW-330
+                      [AMOUNT] => 96500
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => 
+                      [OFFER_PERIOD] => 
+                      [NO_INT_YN] => 
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => 
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [SUPPLY_AMT] => 87727
+                      [GOODS_VAT] => 8773
+                      [SERVICE_AMT] => 0
+                      [PAYMENT_HASH] => 301E2B18B12B67F4492BE27B20878BDC5BCCF96535289FF84A6529D83812177F
+[2019/07/07 21:29:37] Result
+[2019/07/07 21:29:37] §R¡†ŒâÉRŸØ°2æãmÁ[y>V~¥W9 HfÍ’c¬Z“Ea²aÓÑeA;´dÜgšåAoP1ú`0­¶Q]ì7Ø%HŽE¤b9Ê4Òì5ñ`¹hÐzfÍ
+[2019/07/07 21:29:37] 

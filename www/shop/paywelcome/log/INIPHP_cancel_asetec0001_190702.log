@@ -1,0 +1,97 @@
+INFO	[2019-07-02 09:23:47:390] <45646> START INIPHP cancel (V5036-141209)(OS:Linux2.6.32-696.20.1.el6.x86_64,PHP:5.5.17p1)
+DEBUG	[2019-07-02 09:23:47:396] <45646> inipayhome:/home/hosting_users/k2k9company/www/shop/inicis
+DEBUG	[2019-07-02 09:23:47:396] <45646> debug:false
+DEBUG	[2019-07-02 09:23:47:396] <45646> type:cancel
+DEBUG	[2019-07-02 09:23:47:396] <45646> mid:asetec0001
+DEBUG	[2019-07-02 09:23:47:396] <45646> admin:1111
+DEBUG	[2019-07-02 09:23:47:396] <45646> tid:StdpayCARDasetec000120190701161043865400
+DEBUG	[2019-07-02 09:23:47:396] <45646> cancelmsg:쇼핑몰 운영자 승인 취소
+INFO	[2019-07-02 09:23:47:397] <45646> Check Field OK
+INFO	[2019-07-02 09:23:47:397] <45646> PI PUB KEY LOAD OK []
+INFO	[2019-07-02 09:23:47:421] <45646> PG PUB KEY LOAD OK [30]
+INFO	[2019-07-02 09:23:47:437] <45646> MERCHANT PRIV KEY LOAD OK
+INFO	[2019-07-02 09:23:47:445] <45646> MERCHANT PUB KEY LOAD OK [0]
+DEBUG	[2019-07-02 09:23:47:463] <45646> MAKE ENCRYPT OK[<?xml version="1.0" encoding="UTF-8"?>
+<CancelInfo>
+	  <CancelTID>StdpayCARDasetec000120190701161043865400</CancelTID>
+	  <CancelMsg urlencode="1">%BC%EE%C7%CE%B8%F4+%BF%EE%BF%B5%C0%DA+%BD%C2%C0%CE+%C3%EB%BC%D2</CancelMsg>
+	  <CancelReason/></CancelInfo>]
+INFO	[2019-07-02 09:23:47:464] <45646> MAKE BODY OK
+INFO	[2019-07-02 09:23:47:465] <45646> SIGN OK
+INFO	[2019-07-02 09:23:47:465] <45646> MAKE HEAD OK
+INFO	[2019-07-02 09:23:47:465] <45646> MSG_TO_PG:[0096200175D SHA1                   0                                      300420asetec0001                    StdpayCARDasetec000120190701161043865400<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <CancelInfo>
+	    <SessionKey>uZPimU5rhyxB/CRnPLwu5JKa9cm/C2q3zSFgm2ciui8BxLp2UJactGzEmUOjr3Gl
+dxjoRHzEJhP0CAEhUDfgD6Vb3o+wi0wu+2DTbD5Ke872aeW9Wn7qKb3u+luapXx8
+XCUPNOZFpTB86o/+H9XBsfIykveKC5tFivzMS/7bXIkL8fnKoHZRtQ==
+</SessionKey>
+	    <Encrypted>e9gZn5b3mzqt38wePNU69zNHx9R0R6iTJRFKq6rSCQvz1daVt259y66bIa8Q5h+G
+MFeujSbTLre/PzCv1gYJavq7NECNWON0i3v/QkcpH+6bMt3AXtfsPs20Cfzl5sm9
+9Pk1ylm06OpSAwb4WxLS/kdZPPlacxqMLbmNqnpKhe22wzKGHSSL2FalIjUKRvwW
+i1xIxET5IxL+vYzs4WPWDVnTmxVsMIdjMnBYLJSDIqKtuA+YCmHmXT7BQ5ZimD64
+DX+kojujLSsyLBio+X2TQjkhrd57oCnhG0qEhMRmkVqUg38iW8tX1JNOSrJWV8Iy
+nKDE9iHodnNl6NTGcy1ELg==
+</Encrypted></CancelInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5036B141209canceLinux     PHPchkfake   2.6.32-696.20.1.el6.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AItUoqMlaJqQ5iCMibOwSPRdeiWXbQ+vpmguF8tR6KySUyzSKAuCMhZ5YKo4cnYJ
+JL1rR+whP1tV+cgY7o2VgyQBQsDjezp2nlMKKtS79T4Fr5GKhZxKQEzOBWUBt0Pi
+uLaOPXwEN/cmLkX80X+C29ZLbz9y7s83uXSuHEEQxbZL
+]
+INFO	[2019-07-02 09:23:47:465] <45646> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2019-07-02 09:23:47:467] <45646> SOCKET CONNECT OK
+INFO	[2019-07-02 09:23:47:467] <45646> SEND OK
+INFO	[2019-07-02 09:23:47:616] <45646> RECV OK
+INFO	[2019-07-02 09:23:47:616] <45646> MSG_FROM_PG:[0115800175D SHA1                   0                                      300430asetec0001                    StdpayCARDasetec000120190701161043865400<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <CancelInfo>
+    <ResultCode>120000</ResultCode>
+    <ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</ResultMsg>
+    <SessionKey>AHOwChOuNQXoM1nVVM4LUpJSxexiyW8/REAzG7rPZf8BkXksVFmSR3fYsR54P4Op
+0xgpzXOOFuy3+YHMgKiFmeASZwDsQiP7sFICIhcXZxnOrrH2pUSPRPZgzi0QCSsv
+zLVHkDUsSs7RG1KOy3dEi8Oy4tM8CloXhylSL9bOHpxttn7JiO4+wRQ=
+</SessionKey>
+    <Encrypted>0UyGLMpgNqINtVxkpxQ9CfMbldCtsvdh3in1pGzsIq53IXWwpNygaAWPk4Uk7NR8
+ZJ0IxVBOquNcj8hf1RyQZp7EX3xLssJO3R0O2ou5fPHUMYRClav61QF3VIj8wV7c
+vePUvnEMeSajacCppYcn5gCij9iWe1z8DW5zmUFZcEMhgB0cdbNukkFt9+ecaDOI
+N5IGeeFvEraMXCpbgw3OVrFizfq8c8Wf1vO+U/fj95oOCsG8nEjskkr4a83TL6ET
+LQjyJN4BUsBTYwcfJHGHiFUa+S9BaG9amyIn7GbEH1s5UQyrN5a6iXphQhhoGrHS
+t4sWz88MBb7OH5r2iXWnaXlTvQOeQPZeucNJYZNcI/Y=
+</Encrypted>
+  </CancelInfo>
+  <ManageInfo/>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+3PRGAixwVzOHVVORayKUI1fxrR8quFw9PqlW3AirozzBEGwcw6d0SASolVfDB59/
+8yus6qNp64OenJCK8Wl/5yxu0wKklsCxT2Ezrz1NdEDkHaCfSaYax+XxyIdp2fNq
+/oKwST9PciIjgqb6W9Tdx4KrkFP0gnbeTVPPw1mvvUs=
+]
+INFO	[2019-07-02 09:23:47:616] <45646> VERIFY OK
+INFO	[2019-07-02 09:23:47:616] <45646> PARSE HEAD OK
+INFO	[2019-07-02 09:23:47:617] <45646> PARSE BODY OK
+INFO	[2019-07-02 09:23:47:621] <45646> DECRYPT OK
+DEBUG	[2019-07-02 09:23:47:621] <45646> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<CancelInfo>
+  <CancelDate>20190702</CancelDate>
+  <CancelTime>092348</CancelTime>
+  <ResultCode>120000</ResultCode>
+  <ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</ResultMsg>
+</CancelInfo>]
+INFO	[2019-07-02 09:23:47:622] <45646> DECRYPT PARSE OK
+INFO	[2019-07-02 09:23:47:622] <45646> END cancel 정상처리되었습니다. Laptime:[0.245sec]
+INFO	[2019-07-02 09:23:47:622] <45646> ===============================================================

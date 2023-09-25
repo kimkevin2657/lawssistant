@@ -1,0 +1,5 @@
+0215-163511.940 - 25057 - 20021516332810120830 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20021516331874]
+0215-163511.946 - 25057 - 20021516332810120830 - MSG : PG_서버_접속__정상
+0215-163511.956 - 25057 - 20021516332810120830 - MSG : PG_서버_요청_전문_전송__정상
+0215-163512.312 - 25057 - 20021516332810120830 - MSG : PG_서버_응답_전문_수신__정상
+0215-163512.312 - 25057 - 20021516332810120830 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20021516332810120830order_no=20021516331874amount=100800auth_no=00659141tran_date=20200215163512card_no=5433330500005401issuer_cd=027issuer_nm=현대 마스터acquirer_cd=027acquirer_nm=현대카드사noint=03install_period=03used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=151622332561pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=NhWPjtGR238NIBdw/ZiinS2b6cJJWnNspW2cyFUpLO8=user_nm=심근아user_id=01092320048bk_pay_yn=N]

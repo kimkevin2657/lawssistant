@@ -1,0 +1,182 @@
+INFO	[2022-10-31 21:04:43:428] <24157> START INIPHP repay (V5036-141209)(OS:Linux2.6.32-754.9.1.el6.x86_64,PHP:7.0.33)
+DEBUG	[2022-10-31 21:04:43:428] <24157> inipayhome:/home/owner/www/shop/inicis
+DEBUG	[2022-10-31 21:04:43:428] <24157> debug:false
+DEBUG	[2022-10-31 21:04:43:428] <24157> type:repay
+DEBUG	[2022-10-31 21:04:43:428] <24157> pgid:INIphpRPAY
+DEBUG	[2022-10-31 21:04:43:428] <24157> subpgip:203.238.3.10
+DEBUG	[2022-10-31 21:04:43:428] <24157> mid:jonevs0001
+DEBUG	[2022-10-31 21:04:43:428] <24157> admin:1111
+DEBUG	[2022-10-31 21:04:43:428] <24157> oldtid:StdpayISP_jonevs000120221031205838578529
+DEBUG	[2022-10-31 21:04:43:428] <24157> currency:WON
+DEBUG	[2022-10-31 21:04:43:428] <24157> price:1100
+DEBUG	[2022-10-31 21:04:43:428] <24157> confirm_price:1550
+DEBUG	[2022-10-31 21:04:43:428] <24157> buyeremail:jwonvisoin@naver.com
+DEBUG	[2022-10-31 21:04:43:428] <24157> tax:100
+DEBUG	[2022-10-31 21:04:43:428] <24157> taxfree:0
+INFO	[2022-10-31 21:04:43:428] <24157> Check Field OK
+INFO	[2022-10-31 21:04:43:428] <24157> Make TID OK INIphpRPAYjonevs000120221031210443282967
+INFO	[2022-10-31 21:04:43:428] <24157> PI PUB KEY LOAD OK []
+INFO	[2022-10-31 21:04:43:429] <24157> PG PUB KEY LOAD OK [30]
+ERROR	[2022-10-31 21:04:43:429] <24157> 상점개인키 로드오류
+INFO	[2022-10-31 21:04:43:445] <24157> END repay [TX9301|상점개인키 로드오류] Laptime:[0.017sec]
+INFO	[2022-10-31 21:04:43:445] <24157> ===============================================================
+INFO	[2022-10-31 21:10:10:895] <24157> START INIPHP repay (V5036-141209)(OS:Linux2.6.32-754.9.1.el6.x86_64,PHP:7.0.33)
+DEBUG	[2022-10-31 21:10:10:895] <24157> inipayhome:/home/owner/www/shop/inicis
+DEBUG	[2022-10-31 21:10:10:895] <24157> debug:false
+DEBUG	[2022-10-31 21:10:10:895] <24157> type:repay
+DEBUG	[2022-10-31 21:10:10:895] <24157> pgid:INIphpRPAY
+DEBUG	[2022-10-31 21:10:10:895] <24157> subpgip:203.238.3.10
+DEBUG	[2022-10-31 21:10:10:895] <24157> mid:jonevs0001
+DEBUG	[2022-10-31 21:10:10:895] <24157> admin:1111
+DEBUG	[2022-10-31 21:10:10:895] <24157> oldtid:StdpayISP_jonevs000120221031210902370194
+DEBUG	[2022-10-31 21:10:10:895] <24157> currency:WON
+DEBUG	[2022-10-31 21:10:10:895] <24157> price:1100
+DEBUG	[2022-10-31 21:10:10:895] <24157> confirm_price:0
+DEBUG	[2022-10-31 21:10:10:895] <24157> buyeremail:jwonvisoin@naver.com
+DEBUG	[2022-10-31 21:10:10:895] <24157> tax:100
+DEBUG	[2022-10-31 21:10:10:895] <24157> taxfree:0
+INFO	[2022-10-31 21:10:10:895] <24157> Check Field OK
+INFO	[2022-10-31 21:10:10:895] <24157> Make TID OK INIphpRPAYjonevs000120221031211010951330
+INFO	[2022-10-31 21:10:10:895] <24157> PI PUB KEY LOAD OK []
+INFO	[2022-10-31 21:10:10:895] <24157> PG PUB KEY LOAD OK [30]
+ERROR	[2022-10-31 21:10:10:895] <24157> 상점개인키 로드오류
+INFO	[2022-10-31 21:10:10:903] <24157> END repay [TX9301|상점개인키 로드오류] Laptime:[0.008sec]
+INFO	[2022-10-31 21:10:10:903] <24157> ===============================================================
+INFO	[2022-10-31 21:10:23:977] <25193> START INIPHP repay (V5036-141209)(OS:Linux2.6.32-754.9.1.el6.x86_64,PHP:7.0.33)
+DEBUG	[2022-10-31 21:10:23:977] <25193> inipayhome:/home/owner/www/shop/inicis
+DEBUG	[2022-10-31 21:10:23:977] <25193> debug:false
+DEBUG	[2022-10-31 21:10:23:977] <25193> type:repay
+DEBUG	[2022-10-31 21:10:23:977] <25193> pgid:INIphpRPAY
+DEBUG	[2022-10-31 21:10:23:977] <25193> subpgip:203.238.3.10
+DEBUG	[2022-10-31 21:10:23:977] <25193> mid:jonevs0001
+DEBUG	[2022-10-31 21:10:23:977] <25193> admin:1111
+DEBUG	[2022-10-31 21:10:23:977] <25193> oldtid:StdpayISP_jonevs000120221031210902370194
+DEBUG	[2022-10-31 21:10:23:977] <25193> currency:WON
+DEBUG	[2022-10-31 21:10:23:977] <25193> price:1100
+DEBUG	[2022-10-31 21:10:23:977] <25193> confirm_price:0
+DEBUG	[2022-10-31 21:10:23:977] <25193> buyeremail:jwonvisoin@naver.com
+DEBUG	[2022-10-31 21:10:23:977] <25193> tax:0
+DEBUG	[2022-10-31 21:10:23:977] <25193> taxfree:1100
+INFO	[2022-10-31 21:10:23:977] <25193> Check Field OK
+INFO	[2022-10-31 21:10:23:977] <25193> Make TID OK INIphpRPAYjonevs000120221031211023771544
+INFO	[2022-10-31 21:10:23:977] <25193> PI PUB KEY LOAD OK []
+INFO	[2022-10-31 21:10:23:978] <25193> PG PUB KEY LOAD OK [30]
+ERROR	[2022-10-31 21:10:23:978] <25193> 상점개인키 로드오류
+INFO	[2022-10-31 21:10:23:985] <25193> END repay [TX9301|상점개인키 로드오류] Laptime:[0.008sec]
+INFO	[2022-10-31 21:10:23:985] <25193> ===============================================================
+INFO	[2022-10-31 21:11:46:739] <24157> START INIPHP repay (V5036-141209)(OS:Linux2.6.32-754.9.1.el6.x86_64,PHP:7.0.33)
+DEBUG	[2022-10-31 21:11:46:739] <24157> inipayhome:/home/owner/www/shop/inicis
+DEBUG	[2022-10-31 21:11:46:739] <24157> debug:false
+DEBUG	[2022-10-31 21:11:46:739] <24157> type:repay
+DEBUG	[2022-10-31 21:11:46:739] <24157> pgid:INIphpRPAY
+DEBUG	[2022-10-31 21:11:46:739] <24157> subpgip:203.238.3.10
+DEBUG	[2022-10-31 21:11:46:739] <24157> mid:jonevs0001
+DEBUG	[2022-10-31 21:11:46:739] <24157> admin:1111
+DEBUG	[2022-10-31 21:11:46:739] <24157> oldtid:StdpayISP_jonevs000120221031210902370194
+DEBUG	[2022-10-31 21:11:46:739] <24157> currency:WON
+DEBUG	[2022-10-31 21:11:46:739] <24157> price:1100
+DEBUG	[2022-10-31 21:11:46:739] <24157> confirm_price:0
+DEBUG	[2022-10-31 21:11:46:739] <24157> buyeremail:jwonvisoin@naver.com
+DEBUG	[2022-10-31 21:11:46:739] <24157> tax:100
+DEBUG	[2022-10-31 21:11:46:739] <24157> taxfree:0
+INFO	[2022-10-31 21:11:46:739] <24157> Check Field OK
+INFO	[2022-10-31 21:11:46:739] <24157> Make TID OK INIphpRPAYjonevs000120221031211146394635
+INFO	[2022-10-31 21:11:46:739] <24157> PI PUB KEY LOAD OK []
+INFO	[2022-10-31 21:11:46:739] <24157> PG PUB KEY LOAD OK [30]
+INFO	[2022-10-31 21:11:46:740] <24157> MERCHANT PRIV KEY LOAD OK
+INFO	[2022-10-31 21:11:46:740] <24157> MERCHANT PUB KEY LOAD OK [0]
+DEBUG	[2022-10-31 21:11:46:742] <24157> MAKE ENCRYPT OK[<?xml version="1.0" encoding="UTF-8"?>
+<PartCancelInfo>
+	  <PRTC_TID>StdpayISP_jonevs000120221031210902370194</PRTC_TID>
+	  <PRTC_Price>1100</PRTC_Price>
+	  <PRTC_Remains/>
+	  <PRTC_Quota/>
+	  <PRTC_Interest/>
+	  <PRTC_NoAcctFNBC/>
+	  <PRTC_NmAcctFNBC/></PartCancelInfo>]
+INFO	[2022-10-31 21:11:46:742] <24157> MAKE BODY OK
+INFO	[2022-10-31 21:11:46:742] <24157> SIGN OK
+INFO	[2022-10-31 21:11:46:742] <24157> MAKE HEAD OK
+INFO	[2022-10-31 21:11:46:742] <24157> MSG_TO_PG:[0108300175D SHA1                   0                                      300620jonevs0001                1100INIphpRPAYjonevs000120221031211146394635<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <PartCancelInfo>
+	    <SessionKey>PHTQNdRphNAo5u6rOkrvSk4t5ATZHw0H/0c/xC2kawFO1FmHBwJCGjI+MN6RNUkB
+2yLWy4Ab8bNDPUWI3Zt4lwXtuDerKz6guTNJnJsz2c418hi22kiVofd+M9I9BegL
+y+MbGS4l2TtcGrdQY/+VEyxCAVosgPHFN0ppcN7MdahxJ2BoQSEQwQ==
+</SessionKey>
+	    <Encrypted>XRNr3hm/bV4E1ciVIwYVz9hiJUvAGCSYNwPynwg+0s4gAQyffCq96OKbR1hh92Lg
+to2yc3+D5mmoSXULxzOdGbr6qJpSdbe/bvBFeNVXkF/Fn9VSEvpjmHNP1OK5+eCn
+b0sN6h/uWPf6Jb74ZBLT+1EXcf/lWt8eJ6PxVwL4DHs9pkoMV6uKbHCIX+OuglWb
+fx5C9C6gDJc6WA09gLjPv3LR5vIRC4xMf8qxLeZWC1AEhw/m+E27xi8S9Ee1ZkY+
+fPC07obIR8qVPSXEiAW6W7zMlIHdilV/RyOnmWB/JIT8bJZtggp3q7iJH2anAJza
++PJj8R+h1HWUuWqgOq1kzEWjNUN1CsUhHdxg88XHmRM=
+</Encrypted></PartCancelInfo>
+	  <GoodsInfo>
+	    <Tax>100</Tax>
+	    <TaxFree/>
+	    <Currency>WON</Currency></GoodsInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5036B141209repayLinux     PHPchkfake   2.6.32-754.9.1.el6.x86_64PHP:7</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AKghDL+VnqBx4Ip4uU8ZrInf2gVoBVHBLp/KxzbSuRX9WajW3xl/IUsXBUN3lMrg
+14f9Q5MYQPj+IpOXTlB3uCWEM+n9ELuhREvwX7mgLJWLgGxW4RecbL1C7AMn4J9Q
+oyj3XpjKOquMiNPMsrtNkac7MyupvmNgqyiU3NjLcTYp
+]
+INFO	[2022-10-31 21:11:46:743] <24157> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2022-10-31 21:11:46:746] <24157> SOCKET CONNECT OK
+INFO	[2022-10-31 21:11:46:746] <24157> SEND OK
+INFO	[2022-10-31 21:11:46:972] <24157> RECV OK
+INFO	[2022-10-31 21:11:46:972] <24157> MSG_FROM_PG:[0109300175D SHA1                   0                                      300630jonevs0001                1100INIphpRPAYjonevs000120221031211146394635<?xml version="1.0" encoding="UTF-8"?><INIpay>
+<PartCancelInfo>
+<PayMethod>VCard</PayMethod>
+<ResultCode>170000</ResultCode>
+<ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+<SessionKey>AKL6yT11F7XoSlID6kJwEIQ+9zgvdt3rwzcwsex4BwjSIMJVJFVN/+knvf4kr0Wn
+HeIvaiwWcFcPlVBINFuT83QTqddyqkB76Fuaww9zLzPKrPl1e9Z7s3wnlmbKu+Hz
+5kUjoEtJ7aidCLspreYu92VIwOOEGIIVCq9IUObatqwSvf/8hFY+hr4=
+</SessionKey>
+<Encrypted>sidmvEtQ0G0EUZi0apML8Hz4i4fesIManrF7ujZCWOCtOcnPGPAskpkN9mYpa6zM
+A/qTeUFQomvYIz3TDK9AeiuECyUXBokSrM3WqiFYIWf3fn533IRAIuv8MmGG5dOj
+6aD5abPi1+OkoZBn6pLnVi/dmnHgv2ZE7zCPAlsQLc8F3gkJiQhHY7jBI4Uc2QTj
+SV4rZzg9lZKedtYzXQLL9FLBoAs+Y4iZofQpC5iFA94FhUeDDiHyZPb7pqJgHhfC
+yHFGPjVi/+sEBTwmd9yta/ZCLwj3nI4nyH8nJck0Akbbgy7SptFeGCJNNm9xiVtU
+frKQigDr/7o+CwiL79Fn1jHWNzjlOC029QyvNOneJk+g3osdfY/H0ldJbfoDFddw
+V32fvP2oQN/onYBNO1dBUTmSxUuSHBQ6tvBnA+O8LOyIywBoXRf1stYMnqbH3o6Y
+59c8Wkl7T+OuTUz6WP4uvcXTYDn7AqpSQ8WxCL5xU/CsXH+OhdPqiA==
+</Encrypted>
+</PartCancelInfo>
+<ManageInfo/>
+<ReservedInfo>
+<MReserved1 urlencode="1"/>
+<MReserved2 urlencode="1"/>
+<MReserved3 urlencode="1"/>
+</ReservedInfo>
+</INIpay>
+JL2HYwu2Xz19hdBLwKvToVPMd2cd5t2vj2O9CkwliAsbjmGMkbJE3l9QpATMzW2a
+/+vVpDy0Tk/9FQwv+cNetgcLcXfuQcGzSRWJS7YKA6fW3vcICXE9o2iQ/VlC4bfz
+CuPbo6GUdArl5hcqG1Rsm99KL9dZ/4Rs9qKPDcLD/CU=
+]
+INFO	[2022-10-31 21:11:46:972] <24157> VERIFY OK
+INFO	[2022-10-31 21:11:46:972] <24157> PARSE HEAD OK
+INFO	[2022-10-31 21:11:46:973] <24157> PARSE BODY OK
+INFO	[2022-10-31 21:11:46:974] <24157> DECRYPT OK
+DEBUG	[2022-10-31 21:11:46:974] <24157> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?><PartCancelInfo>
+<PRTC_TID>StdpayISP_jonevs000120221031210902370194</PRTC_TID>
+<PRTC_Price>1100</PRTC_Price>
+<PRTC_Remains>0</PRTC_Remains>
+<PRTC_Quota>00</PRTC_Quota>
+<PRTC_Type>1</PRTC_Type>
+<CancelDate>20221031</CancelDate>
+<CancelTime>211147</CancelTime>
+<PRTC_Cnt>1</PRTC_Cnt>
+<PRTC_SubRemains>0</PRTC_SubRemains>
+</PartCancelInfo>]
+INFO	[2022-10-31 21:11:46:974] <24157> DECRYPT PARSE OK
+INFO	[2022-10-31 21:11:46:974] <24157> END repay ����Ϸ� Laptime:[0.236sec]
+INFO	[2022-10-31 21:11:46:974] <24157> ===============================================================

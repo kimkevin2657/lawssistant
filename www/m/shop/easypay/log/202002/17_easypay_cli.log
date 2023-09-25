@@ -1,0 +1,5 @@
+0217-133034.962 - 11469 - 20021713273210604556 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20021713272650]
+0217-133034.970 - 11469 - 20021713273210604556 - MSG : PG_서버_접속__정상
+0217-133034.980 - 11469 - 20021713273210604556 - MSG : PG_서버_요청_전문_전송__정상
+0217-133035.456 - 11469 - 20021713273210604556 - MSG : PG_서버_응답_전문_수신__정상
+0217-133035.456 - 11469 - 20021713273210604556 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20021713273210604556order_no=20021713272650amount=138600auth_no=88491344tran_date=20200217133035card_no=4009125100003727issuer_cd=031issuer_nm=삼성비자acquirer_cd=031acquirer_nm=삼성카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=171311392089pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=lqIwn6Tf5tQticALBY4WGnlQel2zWiblvnXlR1N+LbU=user_nm=박건형user_id=01026457736bk_pay_yn=N]

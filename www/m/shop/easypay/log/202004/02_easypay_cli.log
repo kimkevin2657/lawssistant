@@ -1,0 +1,10 @@
+0402-020623.457 - 23525 - 20040202053510987224 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20040202050955]
+0402-020623.464 - 23525 - 20040202053510987224 - MSG : PG_서버_접속__정상
+0402-020623.475 - 23525 - 20040202053510987224 - MSG : PG_서버_요청_전문_전송__정상
+0402-020623.796 - 23525 - 20040202053510987224 - MSG : PG_서버_응답_전문_수신__정상
+0402-020623.797 - 23525 - 20040202053510987224 - MSG : ENDED - res=[res_cd=0000res_msg=정상cno=20040202053510987224order_no=20040202050955amount=68970auth_no=30010001tran_date=20200402020623card_no=5570429800006031issuer_cd=016issuer_nm=KB국민카드acquirer_cd=016acquirer_nm=KB국민카드noint=03install_period=06used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=020222479825cc_expr_date=8911pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=Gxeyk0C/RyCl7wIwJ0PgFkupwaJidpArpkX55xTf25M=user_nm=조찬호user_id=01088491006bk_pay_yn=N]
+0402-021410.182 - 36938 - 20040202133910989371 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20040202132652]
+0402-021410.187 - 36938 - 20040202133910989371 - MSG : PG_서버_접속__정상
+0402-021410.198 - 36938 - 20040202133910989371 - MSG : PG_서버_요청_전문_전송__정상
+0402-021410.437 - 36938 - 20040202133910989371 - MSG : PG_서버_응답_전문_수신__정상
+0402-021410.438 - 36938 - 20040202133910989371 - MSG : ENDED - res=[res_cd=8521res_msg=한도초과cno=20040202133910989371order_no=20040202132652issuer_cd=016acquirer_cd=016]

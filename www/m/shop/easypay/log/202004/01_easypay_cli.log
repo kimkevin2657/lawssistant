@@ -1,0 +1,5 @@
+0401-161140.512 - 54572 - 20040116070810279311 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20040116065404]
+0401-161140.520 - 54572 - 20040116070810279311 - MSG : PG_서버_접속__정상
+0401-161140.531 - 54572 - 20040116070810279311 - MSG : PG_서버_요청_전문_전송__정상
+0401-161140.800 - 54572 - 20040116070810279311 - MSG : PG_서버_응답_전문_수신__정상
+0401-161140.800 - 54572 - 20040116070810279311 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20040116070810279311order_no=20040116065404amount=58400auth_no=44642555tran_date=20200401161140card_no=5137920000001370issuer_cd=045issuer_nm=롯데카드acquirer_cd=047acquirer_nm=롯데카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=011621294952pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=YsCS8s1foiKwgm+Q9eQY4C2gO1qpR4CHEy7xaaGEN6k=user_nm=김지영user_id=01030375335bk_pay_yn=N]

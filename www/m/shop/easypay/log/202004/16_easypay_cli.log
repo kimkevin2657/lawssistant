@@ -1,0 +1,5 @@
+0416-151324.849 - 55310 - 20041615112110602038 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20041615111300]
+0416-151324.859 - 55310 - 20041615112110602038 - MSG : PG_서버_접속__정상
+0416-151324.869 - 55310 - 20041615112110602038 - MSG : PG_서버_요청_전문_전송__정상
+0416-151325.469 - 55310 - 20041615112110602038 - MSG : PG_서버_응답_전문_수신__정상
+0416-151325.470 - 55310 - 20041615112110602038 - MSG : ENDED - res=[res_cd=0000res_msg=ISP결제 정상cno=20041615112110602038order_no=20041615111300amount=76000auth_no=30020488tran_date=20200416151325card_no=5409470400005005issuer_cd=016issuer_nm=KB MASTER 카드acquirer_cd=016acquirer_nm=국민카드noint=03install_period=05used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=161521955184pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=dbcs2W1RBiTToUBu4wXRzlL9vUQUjKdlWwS5ph6rf9s=user_nm=안춘자vp_cardcode=050204040020331user_id=01088022846bk_pay_yn=N]

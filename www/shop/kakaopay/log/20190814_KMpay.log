@@ -1,0 +1,26 @@
+[2019/08/14 11:53:41] Request
+[2019/08/14 11:53:41] {"PR_TYPE":"MPM","channelType":"4","MERCHANT_ID":"**********","MERCHANT_TXN_NUM":"19081411533407","PRODUCT_NAME":"[Coobinox]ì¿ ë¹„ë…¹ìŠ¤ Flow ì¨í˜ë ˆì´í„° CX-193-CA","AMOUNT":"26110","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"","OFFER_PERIOD":"","NO_INT_YN":"","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"","POSSI_CARD":"","BLOCK_CARD":"","SUPPLY_AMT":"23736","GOODS_VAT":"2374","SERVICE_AMT":"0","PAYMENT_HASH":"BC7E0A607122471510B524FF7036097AE580A210F12746E6FFAE77E51982CB8A"}
+[2019/08/14 11:53:41] 
+                      [PR_TYPE] => MPM
+                      [channelType] => 4
+                      [MERCHANT_TXN_NUM] => 19081411533407
+                      [PRODUCT_NAME] => [Coobinox]ì¿ ë¹„ë…¹ìŠ¤ Flow ì¨í˜ë ˆì´í„° CX-193-CA
+                      [AMOUNT] => 26110
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => 
+                      [OFFER_PERIOD] => 
+                      [NO_INT_YN] => 
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => 
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [SUPPLY_AMT] => 23736
+                      [GOODS_VAT] => 2374
+                      [SERVICE_AMT] => 0
+                      [PAYMENT_HASH] => BC7E0A607122471510B524FF7036097AE580A210F12746E6FFAE77E51982CB8A
+[2019/08/14 11:53:42] Result
+[2019/08/14 11:53:42] §R¡†ŒâÉRŸØ°2æãmÁ[y>V~¥W9 HfÍ’c¬Z“Ea²aÓÑeA;´dÜgšåAoP1ú`0­¶Q]ì7Ø%HŽE¤b9Ê4Òì5ñ`¹hÐzfÍ
+[2019/08/14 11:53:42] 

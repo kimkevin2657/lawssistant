@@ -1,0 +1,5 @@
+0316-131221.182 - 17817 - 20031613113310938916 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20031613112882]
+0316-131221.190 - 17817 - 20031613113310938916 - MSG : PG_서버_접속__정상
+0316-131221.201 - 17817 - 20031613113310938916 - MSG : PG_서버_요청_전문_전송__정상
+0316-131221.649 - 17817 - 20031613113310938916 - MSG : PG_서버_응답_전문_수신__정상
+0316-131221.649 - 17817 - 20031613113310938916 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20031613113310938916order_no=20031613112882amount=36820auth_no=85177145tran_date=20200316131221card_no=5310707000002853issuer_cd=031issuer_nm=삼성 마스타acquirer_cd=031acquirer_nm=삼성카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=161312761451pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=BYa48o/wUWOsZU1iYM5S06Wd5occ60PI6HOkNJeaIKg=user_nm=박영희user_id=01044426994bk_pay_yn=N]

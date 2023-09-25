@@ -1,0 +1,119 @@
+INFO	[2022-10-31 21:04:00:726] <24901> START INIPHP cancel (V5036-141209)(OS:Linux2.6.32-754.9.1.el6.x86_64,PHP:7.0.33)
+DEBUG	[2022-10-31 21:04:00:726] <24901> inipayhome:/home/owner/www/shop/inicis
+DEBUG	[2022-10-31 21:04:00:726] <24901> debug:false
+DEBUG	[2022-10-31 21:04:00:726] <24901> type:cancel
+DEBUG	[2022-10-31 21:04:00:726] <24901> mid:jonevs0001
+DEBUG	[2022-10-31 21:04:00:726] <24901> admin:1111
+DEBUG	[2022-10-31 21:04:00:726] <24901> tid:StdpayISP_jonevs000120221031205838578529
+DEBUG	[2022-10-31 21:04:00:726] <24901> cancelmsg:ºÓ«Œ∏Ù øÓøµ¿⁄ Ω¬¿Œ √Îº“
+INFO	[2022-10-31 21:04:00:726] <24901> Check Field OK
+INFO	[2022-10-31 21:04:00:726] <24901> PI PUB KEY LOAD OK []
+INFO	[2022-10-31 21:04:00:727] <24901> PG PUB KEY LOAD OK [30]
+ERROR	[2022-10-31 21:04:00:727] <24901> ÏÉÅÏ†êÍ∞úÏù∏ÌÇ§ Î°úÎìúÏò§Î•ò
+INFO	[2022-10-31 21:04:00:734] <24901> END cancel [TX9301|ÏÉÅÏ†êÍ∞úÏù∏ÌÇ§ Î°úÎìúÏò§Î•ò] Laptime:[0.008sec]
+INFO	[2022-10-31 21:04:00:734] <24901> ===============================================================
+INFO	[2022-10-31 21:09:48:849] <24154> START INIPHP cancel (V5036-141209)(OS:Linux2.6.32-754.9.1.el6.x86_64,PHP:7.0.33)
+DEBUG	[2022-10-31 21:09:48:849] <24154> inipayhome:/home/owner/www/shop/inicis
+DEBUG	[2022-10-31 21:09:48:849] <24154> debug:false
+DEBUG	[2022-10-31 21:09:48:849] <24154> type:cancel
+DEBUG	[2022-10-31 21:09:48:849] <24154> mid:jonevs0001
+DEBUG	[2022-10-31 21:09:48:849] <24154> admin:1111
+DEBUG	[2022-10-31 21:09:48:849] <24154> tid:StdpayISP_jonevs000120221031210902370194
+DEBUG	[2022-10-31 21:09:48:849] <24154> cancelmsg:ºÓ«Œ∏Ù øÓøµ¿⁄ Ω¬¿Œ √Îº“
+INFO	[2022-10-31 21:09:48:849] <24154> Check Field OK
+INFO	[2022-10-31 21:09:48:849] <24154> PI PUB KEY LOAD OK []
+INFO	[2022-10-31 21:09:48:850] <24154> PG PUB KEY LOAD OK [30]
+ERROR	[2022-10-31 21:09:48:850] <24154> ÏÉÅÏ†êÍ∞úÏù∏ÌÇ§ Î°úÎìúÏò§Î•ò
+INFO	[2022-10-31 21:09:48:870] <24154> END cancel [TX9301|ÏÉÅÏ†êÍ∞úÏù∏ÌÇ§ Î°úÎìúÏò§Î•ò] Laptime:[0.021sec]
+INFO	[2022-10-31 21:09:48:870] <24154> ===============================================================
+INFO	[2022-10-31 21:20:53:583] <24153> START INIPHP cancel (V5036-141209)(OS:Linux2.6.32-754.9.1.el6.x86_64,PHP:7.0.33)
+DEBUG	[2022-10-31 21:20:53:583] <24153> inipayhome:/home/owner/www/shop/inicis
+DEBUG	[2022-10-31 21:20:53:583] <24153> debug:false
+DEBUG	[2022-10-31 21:20:53:583] <24153> type:cancel
+DEBUG	[2022-10-31 21:20:53:583] <24153> mid:jonevs0001
+DEBUG	[2022-10-31 21:20:53:583] <24153> admin:1111
+DEBUG	[2022-10-31 21:20:53:583] <24153> tid:StdpayISP_jonevs000120221031211556081318
+DEBUG	[2022-10-31 21:20:53:583] <24153> cancelmsg:ºÓ«Œ∏Ù øÓøµ¿⁄ Ω¬¿Œ √Îº“
+INFO	[2022-10-31 21:20:53:583] <24153> Check Field OK
+INFO	[2022-10-31 21:20:53:583] <24153> PI PUB KEY LOAD OK []
+INFO	[2022-10-31 21:20:53:583] <24153> PG PUB KEY LOAD OK [30]
+INFO	[2022-10-31 21:20:53:583] <24153> MERCHANT PRIV KEY LOAD OK
+INFO	[2022-10-31 21:20:53:583] <24153> MERCHANT PUB KEY LOAD OK [0]
+DEBUG	[2022-10-31 21:20:53:584] <24153> MAKE ENCRYPT OK[<?xml version="1.0" encoding="UTF-8"?>
+<CancelInfo>
+	  <CancelTID>StdpayISP_jonevs000120221031211556081318</CancelTID>
+	  <CancelMsg urlencode="1">%BC%EE%C7%CE%B8%F4+%BF%EE%BF%B5%C0%DA+%BD%C2%C0%CE+%C3%EB%BC%D2</CancelMsg>
+	  <CancelReason/></CancelInfo>]
+INFO	[2022-10-31 21:20:53:584] <24153> MAKE BODY OK
+INFO	[2022-10-31 21:20:53:585] <24153> SIGN OK
+INFO	[2022-10-31 21:20:53:585] <24153> MAKE HEAD OK
+INFO	[2022-10-31 21:20:53:585] <24153> MSG_TO_PG:[0096200175D SHA1                   0                                      300420jonevs0001                    StdpayISP_jonevs000120221031211556081318<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <CancelInfo>
+	    <SessionKey>apBknBiAcKmc3ENgvJ4y2jRy28j8YAX8QULdZh03uLyO/Awkh9QfHpLRUu5976ik
+FbxfAkwSVsP4zAwiPxuh1uh4N9vlJ3xzXAg+wJttr7JsyrW6DoiLVO/jscSI5nxn
+0li5C8ilj9UndPqWBpCoZeVsez/S7yufKYWRfyU4t2/iQE24RL8kHA==
+</SessionKey>
+	    <Encrypted>IK3cHwTAqE/mi8wlVFXILWhSbMBi0feZg6ArXndPw2431XFN9In1rRVYkqGH7eqn
+vSJnx92pNpqvrxYwbrmt75zUoAgifA5tRwJy8CfaFIeGmvtBmVRjMAh2ncaRHQxK
+Fuyy56gf7F2+OCfencUPY+HCSG5dS2HcnZS8B/Ukct8zKS3QqYcfSmHSeoGhoLCl
+4OtnLa4O5Bmob1Nmf2k2NdgJAPH07XrDtk1iyyQ2sFshcIYOY/EUjxA5mIPzIjQO
+TmoXI+qg47cZdUDzQHWP9d34knGnmjfvk5bLXf9sx4bxRphnsXFy5pv1IDDMRmjA
+huVaJEYP2xkAmPdK9niyOA==
+</Encrypted></CancelInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5036B141209canceLinux     PHPchkfake   2.6.32-754.9.1.el6.x86_64PHP:7</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>ALwxTJZJXGrWEmksSVh4GRK50v62Iesuz8dWC5G4WQpBvjavbdytF2ugq5GDFdeh
+MsA9M8QESi7+REVYH4R54jw8pb0sonrP08wR3OawSVhgDgv4A2i48OeS3hNOb5sH
+Fsw6vPPbIHyUxtCEt8cBCs8LFZkCEcFCcB96BKdWEiYQ
+]
+INFO	[2022-10-31 21:20:53:585] <24153> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2022-10-31 21:20:53:588] <24153> SOCKET CONNECT OK
+INFO	[2022-10-31 21:20:53:588] <24153> SEND OK
+INFO	[2022-10-31 21:20:53:830] <24153> RECV OK
+INFO	[2022-10-31 21:20:53:830] <24153> MSG_FROM_PG:[0086100175D SHA1                   0                                      300430jonevs0001                    StdpayISP_jonevs000120221031211556081318<?xml version="1.0" encoding="UTF-8"?><INIpay>
+<CancelInfo>
+<ResultCode>170000</ResultCode>
+<ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+<SessionKey>AI+Z8S/Zsb+5gIAyZ8JJHS+HfnM2cWTDYPWl8HCmb9AkGw/RNit6ktAY1sF3Eomh
+2sa2EQ/WFg+ginS3JwED5BO7Ctgns8hgZ4Cnc6W7OXwhgUWRWL3DYUW67qWKl0wH
+L1Q2+Y3vF1n63Ff3QQIGEViHpmOUYVd+ieyge614QAhTAfeF9yCTCaU=
+</SessionKey>
+<Encrypted>zyMiGARZtJPG9Usv7qEaenwjbtKa2UbKgGp3R0vhV0kmjqIzFYBIQExVL1zuK0MG
+Mc59QKFs4/XPAkysgIQzz3BLgeZ1G/feVvbpJQX9Day/QR9QtF5Oc/bX+3dCtDS8
+AB8MRMRHnfNbXuPiDzOzItQVV+bbH6LQyHNEfrCyjUaJaSmSL1e88VbZgOm1BO4J
+W3BuGy3iHai07TYQvv2i7xA9mzOIAR4QmJvj5YgoEoNHUQSCYdij/KV69OUWNR2/
+LfLmd5iFMUtb63U+i798AhsrB4gqRTQoVKXd7eboRpeyi3yOAPbnug==
+</Encrypted>
+</CancelInfo>
+<ManageInfo/>
+<ReservedInfo>
+<MReserved1 urlencode="1"/>
+<MReserved2 urlencode="1"/>
+<MReserved3 urlencode="1"/>
+</ReservedInfo>
+</INIpay>
+sqc2F9V8Z7FBi+0oxg0qUZ2KzegW+2+aX3B8Hy941aPMjUckfHQk/kGy1DK7QrOg
+jJBt4fduMTXITvHZ5uon49jvsotagLkhmTNBY6yXyIrW+3T8gAWb7OzYSGQBdbaP
+WJBP4FVlMcevFfNVZWt/6YZHBhld9cink2yNZBQljUI=
+]
+INFO	[2022-10-31 21:20:53:830] <24153> VERIFY OK
+INFO	[2022-10-31 21:20:53:830] <24153> PARSE HEAD OK
+INFO	[2022-10-31 21:20:53:831] <24153> PARSE BODY OK
+INFO	[2022-10-31 21:20:53:831] <24153> DECRYPT OK
+DEBUG	[2022-10-31 21:20:53:831] <24153> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?><CancelInfo>
+<CancelDate>20221031</CancelDate>
+<CancelTime>212054</CancelTime>
+<ResultCode>170000</ResultCode>
+<ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+</CancelInfo>]
+INFO	[2022-10-31 21:20:53:832] <24153> DECRYPT PARSE OK
+INFO	[2022-10-31 21:20:53:832] <24153> END cancel ¡§ªÛøœ∑· Laptime:[0.249sec]
+INFO	[2022-10-31 21:20:53:832] <24153> ===============================================================

@@ -1,0 +1,10 @@
+0104-114806.828 -  4916 - 20010411471610765846 - MSG : START - tr_cd=[00101000]+mall_id=[05542456]+order_no=[20010411471340]
+0104-114806.834 -  4916 - 20010411471610765846 - MSG : PG_서버_접속__정상
+0104-114806.844 -  4916 - 20010411471610765846 - MSG : PG_서버_요청_전문_전송__정상
+0104-114807.136 -  4916 - 20010411471610765846 - MSG : PG_서버_응답_전문_수신__정상
+0104-114807.136 -  4916 - 20010411471610765846 - MSG : ENDED - res=[res_cd=0000res_msg=단독승인 정상cno=20010411471610765846order_no=20010411471340amount=41100auth_no=00987580tran_date=20200104114807card_no=6243680000004438issuer_cd=027issuer_nm=현대 카드acquirer_cd=027acquirer_nm=현대카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2576371van_sno=041111822626pay_type=11memb_id=05542456noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=q6U40dIOL9cWHWsEwIK5GJt8a5eDaa29FfOrNWNV33s=user_nm=김동주user_id=01035891745bk_pay_yn=N]
+0104-114832.665 -  4949 - 0554245614FmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542456]+order_no=[1500132734]
+0104-114832.675 -  4949 - 0554245614FmoqMp     - MSG : PG_서버_접속__정상
+0104-114832.685 -  4949 - 0554245614FmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0104-114832.909 -  4949 - 0554245614FmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0104-114832.909 -  4949 - 0554245614FmoqMp     - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20010411471610765846order_no=20010411471340amount=41100tran_date=20200104114833remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200104114833stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=05542456noti_type=20mgr_amt=41100mgr_card_amt=41100mgr_cpon_amt=0mgr_seqno=20010411483210767001day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]

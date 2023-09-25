@@ -1,0 +1,116 @@
+INFO	[2022-12-28 17:54:21:673] <15868> START INIPHP repay (V5036-141209)(OS:Linux2.6.32-754.9.1.el6.x86_64,PHP:7.0.33)
+DEBUG	[2022-12-28 17:54:21:673] <15868> inipayhome:/home/owner/www/shop/inicis
+DEBUG	[2022-12-28 17:54:21:673] <15868> debug:false
+DEBUG	[2022-12-28 17:54:21:673] <15868> type:repay
+DEBUG	[2022-12-28 17:54:21:673] <15868> pgid:INIphpRPAY
+DEBUG	[2022-12-28 17:54:21:673] <15868> subpgip:203.238.3.10
+DEBUG	[2022-12-28 17:54:21:673] <15868> mid:jonevs0001
+DEBUG	[2022-12-28 17:54:21:673] <15868> admin:1111
+DEBUG	[2022-12-28 17:54:21:673] <15868> oldtid:StdpayISP_jonevs000120221228175353351957
+DEBUG	[2022-12-28 17:54:21:673] <15868> currency:WON
+DEBUG	[2022-12-28 17:54:21:673] <15868> price:1100
+DEBUG	[2022-12-28 17:54:21:673] <15868> confirm_price:0
+DEBUG	[2022-12-28 17:54:21:673] <15868> buyeremail:jwonvisoin@naver.com
+DEBUG	[2022-12-28 17:54:21:673] <15868> tax:100
+DEBUG	[2022-12-28 17:54:21:673] <15868> taxfree:0
+INFO	[2022-12-28 17:54:21:673] <15868> Check Field OK
+INFO	[2022-12-28 17:54:21:673] <15868> Make TID OK INIphpRPAYjonevs000120221228175421735932
+INFO	[2022-12-28 17:54:21:673] <15868> PI PUB KEY LOAD OK []
+INFO	[2022-12-28 17:54:21:674] <15868> PG PUB KEY LOAD OK [30]
+INFO	[2022-12-28 17:54:21:675] <15868> MERCHANT PRIV KEY LOAD OK
+INFO	[2022-12-28 17:54:21:675] <15868> MERCHANT PUB KEY LOAD OK [0]
+DEBUG	[2022-12-28 17:54:21:676] <15868> MAKE ENCRYPT OK[<?xml version="1.0" encoding="UTF-8"?>
+<PartCancelInfo>
+	  <PRTC_TID>StdpayISP_jonevs000120221228175353351957</PRTC_TID>
+	  <PRTC_Price>1100</PRTC_Price>
+	  <PRTC_Remains/>
+	  <PRTC_Quota/>
+	  <PRTC_Interest/>
+	  <PRTC_NoAcctFNBC/>
+	  <PRTC_NmAcctFNBC/></PartCancelInfo>]
+INFO	[2022-12-28 17:54:21:676] <15868> MAKE BODY OK
+INFO	[2022-12-28 17:54:21:677] <15868> SIGN OK
+INFO	[2022-12-28 17:54:21:677] <15868> MAKE HEAD OK
+INFO	[2022-12-28 17:54:21:677] <15868> MSG_TO_PG:[0108300175D SHA1                   0                                      300620jonevs0001                1100INIphpRPAYjonevs000120221228175421735932<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <PartCancelInfo>
+	    <SessionKey>qtMPw9TP2gCGj1LjsH4WWN/dT7ZbWZA8PyF+zxBa5x5aK3ZUCtRA5U5k0BHNgn2/
+95sLROmoyvPHrL1ItHgvn1JYeMl7tHh+iiHpYeP+WKhdFFloCC24cfSJkmokjYCW
+cUzvBII7sAvMG00T6N3iswpJO5Nj88DFrnC8pHGxG3fb+071CG2Tzw==
+</SessionKey>
+	    <Encrypted>1zuzy1oy+701HAkQ9c2X9MhmH4rFd9xpkyK47nmuyBJPXufJMazeU+6xkOewbeD3
+UGwLkeLsHF9Ye6luSWXBXpOTyODcmPkAH0YVCzzoGBSmEHpf3Q9nCBuj14P5u3OS
+0UgvytDapnpSGQhfVf9mIHShohDycB6XSW5gm5Zrm40GlZ/vabGkZvekCI/yQUg4
+Eq3InMalYsnR7jkVVJhARUQKmD1+rSnkh2HJE+81p3wYicYW9gJya9jnECQykYY4
+okDtRI30o9SMh2RHdCDR+WantGZ9LhzCEnJi3fGs0vRjfLXpg6SlkNThyXcXYFhk
+Hlq2pcrpNMmuHcWUx3n00Lrl3Zf1Hsc3926hG36ZU28=
+</Encrypted></PartCancelInfo>
+	  <GoodsInfo>
+	    <Tax>100</Tax>
+	    <TaxFree/>
+	    <Currency>WON</Currency></GoodsInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5036B141209repayLinux     PHPchkfake   2.6.32-754.9.1.el6.x86_64PHP:7</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/></ManageInfo></INIpay>AF+aAITqNqUiKDmtaJb4GCkp38KwuGot9Rzgu51V/H7uJlj2B75O15TXKNRw3VuA
+f9/eYwz8jwuA7WEGgqiAi8PQBXvdd9aIciTvQ1Sb8PdFA+7WewF58meBcfQi253D
+u3sj1i/RoXSvMDdETbniT5WCGVlketxpIcUZAd1wc3sv
+]
+INFO	[2022-12-28 17:54:21:677] <15868> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2022-12-28 17:54:21:680] <15868> SOCKET CONNECT OK
+INFO	[2022-12-28 17:54:21:680] <15868> SEND OK
+INFO	[2022-12-28 17:54:21:958] <15868> RECV OK
+INFO	[2022-12-28 17:54:21:958] <15868> MSG_FROM_PG:[0109300175D SHA1                   0                                      300630jonevs0001                1100INIphpRPAYjonevs000120221228175421735932<?xml version="1.0" encoding="UTF-8"?><INIpay>
+<PartCancelInfo>
+<PayMethod>VCard</PayMethod>
+<ResultCode>170000</ResultCode>
+<ResultMsg urlencode="1">%C1%A4%BB%F3%BF%CF%B7%E1</ResultMsg>
+<SessionKey>AK+kWe2zj9yKETXzJ/ZZB6kGwAuhNAV5OnjVvrCwkpwExPB4MfcaGuTCsxjSifK1
+nyrtXjNM3xQxEGWQG/t1FLoIqtLakVYr9DnLDSt+OLsnxJzkW7FbOG02JFWROK2r
+DU0s3RPLzDs2OXxB1pvZmFm4AMfsPwzlItLDqB3S3PcvoB2GRWj84qs=
+</SessionKey>
+<Encrypted>qzqKFkCYqEuSP2bC2R028Kkjx481mol4aQvd1loPVO+zIJjPiTB6eZbcWZq5DEI7
+MWQ7+zjkXqVQ9JR5BBKK9elAqEsZnvqqHNldpIUqNbtrQFpxX5esZzlAfqND3sgh
+nyfhkJH5DneV8kdVR58hSfvLAJdqh07MyRTcytSLvtgwcxaB7qKMincYXJ3Upw2r
+neC8u3Vyrxx04aJyjQZAAwKCKYBM3YKff0/VGIq84dQTnCsWaYrlQaQzs+X/YIAu
+PVDn5EeLr3BsuoxhCjsqjahR/8/T28VB+6LCUHZCHOiMPBQHIVwhsC5NlwnOyyiA
+pqFur/nKoYjUD5Y8GrAarMkdnZ6zp5MG/H5/2DWeR69fg0SRKO+NEKpeX5+xFMmV
+R2XXSgP/scy4CjCByV3qyNyQElxdv1ECLtgSGmdJTNfEBwvKYDuv/hH8ThC4vcna
+1pt81I0QxbLywzgEfI+rOzw54p91xTaVZPJRvGIH1KjwT3hQGaFEFQ==
+</Encrypted>
+</PartCancelInfo>
+<ManageInfo/>
+<ReservedInfo>
+<MReserved1 urlencode="1"/>
+<MReserved2 urlencode="1"/>
+<MReserved3 urlencode="1"/>
+</ReservedInfo>
+</INIpay>
+fWft7ruwKR6LBKrH3CyVOGJc20pRiJZILL/w2Jxim3v6+x4+mfS0ewjxeGisSlHr
+S2Ff193tGPgslr13Pzz1hd2hVhPCNFyrVngVr5ceHlCDVUhuW3VpPOJeAHRYbJHK
+/S3s93yRsITRAbUWu5Oa7L3S72vPDlJfRtyVmXbSGJI=
+]
+INFO	[2022-12-28 17:54:21:958] <15868> VERIFY OK
+INFO	[2022-12-28 17:54:21:958] <15868> PARSE HEAD OK
+INFO	[2022-12-28 17:54:21:959] <15868> PARSE BODY OK
+INFO	[2022-12-28 17:54:21:960] <15868> DECRYPT OK
+DEBUG	[2022-12-28 17:54:21:960] <15868> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?><PartCancelInfo>
+<PRTC_TID>StdpayISP_jonevs000120221228175353351957</PRTC_TID>
+<PRTC_Price>1100</PRTC_Price>
+<PRTC_Remains>0</PRTC_Remains>
+<PRTC_Quota>00</PRTC_Quota>
+<PRTC_Type>1</PRTC_Type>
+<CancelDate>20221228</CancelDate>
+<CancelTime>175422</CancelTime>
+<PRTC_Cnt>1</PRTC_Cnt>
+<PRTC_SubRemains>0</PRTC_SubRemains>
+</PartCancelInfo>]
+INFO	[2022-12-28 17:54:21:960] <15868> DECRYPT PARSE OK
+INFO	[2022-12-28 17:54:21:960] <15868> END repay 정상완료 Laptime:[0.288sec]
+INFO	[2022-12-28 17:54:21:960] <15868> ===============================================================

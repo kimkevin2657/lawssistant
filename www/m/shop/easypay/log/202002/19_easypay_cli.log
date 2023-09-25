@@ -1,0 +1,10 @@
+0219-111550.469 -  9701 - 20021911150210525284 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20021911145618]
+0219-111550.476 -  9701 - 20021911150210525284 - MSG : PG_서버_접속__정상
+0219-111550.487 -  9701 - 20021911150210525284 - MSG : PG_서버_요청_전문_전송__정상
+0219-111550.960 -  9701 - 20021911150210525284 - MSG : PG_서버_응답_전문_수신__정상
+0219-111550.960 -  9701 - 20021911150210525284 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20021911150210525284order_no=20021911145618amount=109620auth_no=58718468tran_date=20200219111551card_no=4009125100003727issuer_cd=031issuer_nm=삼성비자acquirer_cd=031acquirer_nm=삼성카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=191112893323pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=lqIwn6Tf5tQticALBY4WGnlQel2zWiblvnXlR1N+LbU=user_nm=박건형user_id=01026457736bk_pay_yn=N]
+0219-185601.181 - 39193 - 20021918492810047094 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20021918492277]
+0219-185601.187 - 39193 - 20021918492810047094 - MSG : PG_서버_접속__정상
+0219-185601.197 - 39193 - 20021918492810047094 - MSG : PG_서버_요청_전문_전송__정상
+0219-185601.521 - 39193 - 20021918492810047094 - MSG : PG_서버_응답_전문_수신__정상
+0219-185601.521 - 39193 - 20021918492810047094 - MSG : ENDED - res=[res_cd=8178res_msg=연체 카드cno=20021918492810047094order_no=20021918492277issuer_cd=029issuer_nm=신한 플래티늄acquirer_cd=029acquirer_nm=신한 플래티늄]

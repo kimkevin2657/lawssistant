@@ -1,0 +1,5 @@
+0404-142733.258 - 50170 - 20040414204810487050 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20040414203701]
+0404-142733.269 - 50170 - 20040414204810487050 - MSG : PG_서버_접속__정상
+0404-142733.279 - 50170 - 20040414204810487050 - MSG : PG_서버_요청_전문_전송__정상
+0404-142733.705 - 50170 - 20040414204810487050 - MSG : PG_서버_응답_전문_수신__정상
+0404-142733.706 - 50170 - 20040414204810487050 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20040414204810487050order_no=20040414203701amount=58400auth_no=31839019tran_date=20200404142734card_no=5188317000005060issuer_cd=031issuer_nm=삼성 마스타acquirer_cd=031acquirer_nm=삼성카드사noint=03install_period=06used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=041412477258pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=QsfGDR8cB8j+kvU/4txYOenx0LGpNIpnh7h0d2G9x9s=user_nm=서현순user_id=01033290713bk_pay_yn=N]

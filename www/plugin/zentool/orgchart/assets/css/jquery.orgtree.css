@@ -1,0 +1,37 @@
+ul#chart-controller { margin: 0 0 5px 0;}
+ul#chart-controller:after{content: "";
+    clear: both;
+    display: table;}
+ul#chart-controller>li { float:left; display: inline-block; margin: 0 0 5px 5px;  }
+ul#chart-controller>li.dpn {margin:0; display: none;}
+ul#chart-controller>li.current { background: #4879ff; color: white; }
+
+ul#chart-controller>li.separator {margin: 0 5px 5px 10px; border-left: 1px solid #b5a0a0; min-height: 27px;}
+
+ul.tree { margin-left: 30px; }
+ul.first-tree{margin-left:0;}
+ul.first-tree > li > ul.tree { margin-left:10px;}
+ul.tree>li.child { border-left: 1px dotted #aaa;  }
+ul.tree>li.child>.card{padding-left:20px;}
+ul.tree>li.child:last-of-type { border-left: none; }
+ul.tree>li.child:last-of-type >.card {border-left: 1px dotted #aaa; }
+ul.tree>li.child>ul.tree{}
+ul.tree>li.child.close>ul.tree{display:none;}
+ul.first-tree>li.child.close>ul.tree{display:none;}
+.card .fa{margin:5px;}
+.card .fa.fa-users{color:blue;}
+.card .fa.fa-user{color:red;}
+
+.card>span{margin:0 5px; padding-left:5px; border-left:1px solid #878787; display:inline-block;}
+.card>span:first-of-type{border-left:none;}
+.card>.title{color:#e06c04;}
+
+.card>span.name { cursor: pointer; }
+.card>i.fa.fa-users   { cursor: pointer; }
+.card>span.childinfo { color: #369; }
+
+#m_chart .card>.reg-time,
+#m_chart .card>.login-sum,
+#m_chart .card>.cellphone,
+#m_chart .card>.childinfo
+{ display: none; }

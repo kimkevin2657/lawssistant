@@ -1,0 +1,15 @@
+INFO	[2022-01-24 17:18:54:11] <1593> START INIPHP cancel (NV5053-20190404)(OS:Linux3.10.0-1160.49.1.el7.x86_64,PHP:7.0.33)
+DEBUG	[2022-01-24 17:18:54:11] <1593> inipayhome:/home/pulo/www/plugin/wz.chargepoint/gender/inicis
+DEBUG	[2022-01-24 17:18:54:11] <1593> debug:false
+DEBUG	[2022-01-24 17:18:54:11] <1593> type:cancel
+DEBUG	[2022-01-24 17:18:54:11] <1593> mid:blingbeaut
+DEBUG	[2022-01-24 17:18:54:11] <1593> admin:1111
+DEBUG	[2022-01-24 17:18:54:11] <1593> tid:INIMX_CARDblingbeaut20220124165145385468
+DEBUG	[2022-01-24 17:18:54:11] <1593> cancelmsg:ΏξΏµΐΪ ½ΒΐΞ ΓλΌÒ
+INFO	[2022-01-24 17:18:54:11] <1593> Check Field OK
+INFO	[2022-01-24 17:18:54:11] <1593> INPUT TID > INIMX_CARDblingbeaut20220124165145385468
+INFO	[2022-01-24 17:18:54:11] <1593> PI PUB KEY LOAD OK []
+INFO	[2022-01-24 17:18:54:12] <1593> PG PUB KEY LOAD OK [30]
+ERROR	[2022-01-24 17:18:54:12] <1593> μƒμ κ°μΈν‚¤ λ΅λ“μ¤λ¥
+INFO	[2022-01-24 17:18:54:24] <1593> END cancel [TX9301|μƒμ κ°μΈν‚¤ λ΅λ“μ¤λ¥] Laptime:[0.013sec]
+INFO	[2022-01-24 17:18:54:24] <1593> ===============================================================

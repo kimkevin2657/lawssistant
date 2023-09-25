@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+
+
+
+.wetoz .form-control.inline-fix {display:inline-block;}
+
+
+
+#room-select-form .list-group {margin-bottom:0px;}
+#room-select-form .list-group .label-title {height:19px;display:inline-block;line-height:19px;}
+
+.wetoz select.cal_room_adult,.wetoz select.cal_room_child,.wetoz select.cal_room_baby{width:72px}
+
+.info .desc {font-family:'돋움',Dotum,Verdana,applegothic;font-size:11px;letter-spacing:-1px;font-weight:400;color:#7b7b7b}
+
+#room-select-list .more {font-size:12px;}
+ul.bx-times {margin: 0 0 25px;padding: 0;list-style: none;}
+ul.bx-times:after {display:block;visibility:hidden;clear:both;content:''}
+ul.bx-times li {display: inline-block;list-style: none;margin:10px 0;}
+ul.bx-times li .btn-time {display:block;color:#000;margin-right:10px;border-radius: 3px;padding:10px 36px;font-size:14px;text-align:center;border:1px solid #dfdfdf}
+ul.bx-times li .btn-time.active {background-color:#F6FAFF;color:#428bca;font-weight:bold}
+ul.bx-times li .btn-time.closed {background-color:#f3f3f3;color:#989898}
+ul.bx-times li .btn-time .remain-cnt {display:block; font: normal 11px/1.2 'verdana';margin-bottom:2px;}
+

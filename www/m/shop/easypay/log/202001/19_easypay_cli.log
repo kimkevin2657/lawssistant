@@ -1,0 +1,5 @@
+0119-013303.945 - 14171 - 20011901310110782136 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20011901304059]
+0119-013303.954 - 14171 - 20011901310110782136 - MSG : PG_서버_접속__정상
+0119-013303.964 - 14171 - 20011901310110782136 - MSG : PG_서버_요청_전문_전송__정상
+0119-013304.395 - 14171 - 20011901310110782136 - MSG : PG_서버_응답_전문_수신__정상
+0119-013304.395 - 14171 - 20011901310110782136 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20011901310110782136order_no=20011901304059amount=31500auth_no=12774643tran_date=20200119013303card_no=377988050000198issuer_cd=029issuer_nm=신한카드acquirer_cd=029acquirer_nm=신한카드noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=190111396868pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=8BJLE0iAAobAan564zr/j5uXVqiGW8RuS7zTa8WvjnI=user_nm=최명숙user_id=01056740500bk_pay_yn=N]

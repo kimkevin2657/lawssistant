@@ -1,0 +1,26 @@
+[2019/06/20 06:39:51] Request
+[2019/06/20 06:39:51] {"PR_TYPE":"WPM","channelType":"4","MERCHANT_ID":"**********","MERCHANT_TXN_NUM":"19062006394531","PRODUCT_NAME":"LINKFAIR λ§ν¬νμ–΄ 3μΆ… λƒ„λΉ„μ„ΈνΈ","AMOUNT":"396000","CURRENCY":"KRW","CERTIFIED_FLAG":"CN","OFFER_PERIOD_FLAG":"","OFFER_PERIOD":"","NO_INT_YN":"","NO_INT_OPT":"","MAX_INT":"","FIXED_INT":"","POINT_USE_YN":"","POSSI_CARD":"","BLOCK_CARD":"","SUPPLY_AMT":"360000","GOODS_VAT":"36000","SERVICE_AMT":"0","PAYMENT_HASH":"F87C9A4C57F03C3CA94F45A20D1F9DFE8FE477145EE5604298534B331F99C1E0"}
+[2019/06/20 06:39:51] 
+                      [PR_TYPE] => WPM
+                      [channelType] => 4
+                      [MERCHANT_TXN_NUM] => 19062006394531
+                      [PRODUCT_NAME] => LINKFAIR λ§ν¬νμ–΄ 3μΆ… λƒ„λΉ„μ„ΈνΈ
+                      [AMOUNT] => 396000
+                      [CURRENCY] => KRW
+                      [CERTIFIED_FLAG] => CN
+                      [OFFER_PERIOD_FLAG] => 
+                      [OFFER_PERIOD] => 
+                      [NO_INT_YN] => 
+                      [NO_INT_OPT] => 
+                      [MAX_INT] => 
+                      [FIXED_INT] => 
+                      [POINT_USE_YN] => 
+                      [POSSI_CARD] => 
+                      [BLOCK_CARD] => 
+                      [SUPPLY_AMT] => 360000
+                      [GOODS_VAT] => 36000
+                      [SERVICE_AMT] => 0
+                      [PAYMENT_HASH] => F87C9A4C57F03C3CA94F45A20D1F9DFE8FE477145EE5604298534B331F99C1E0
+[2019/06/20 06:39:51] Result
+[2019/06/20 06:39:51] §R΅†βΙRΨ°2ζγmΑ[y>V~¥W9 HfΝ’c¬Z“Ea²aΣΡeA;΄dάgεAoP1ϊ`0­¶Q]μ7Ψ%HE¤b9Κ4Òμ5ρ`ΉhΠzfΝ
+[2019/06/20 06:39:51] 

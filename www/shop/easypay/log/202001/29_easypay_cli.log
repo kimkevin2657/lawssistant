@@ -1,0 +1,20 @@
+0129-111353.802 - 31247 - 20012911112610333203 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20012911111908]
+0129-111353.808 - 31247 - 20012911112610333203 - MSG : PG_서버_접속__정상
+0129-111353.819 - 31247 - 20012911112610333203 - MSG : PG_서버_요청_전문_전송__정상
+0129-111354.207 - 31247 - 20012911112610333203 - MSG : PG_서버_응답_전문_수신__정상
+0129-111354.208 - 31247 - 20012911112610333203 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20012911112610333203order_no=20012911111908amount=15600auth_no=56435948tran_date=20200129111354card_no=5310707000002853issuer_cd=031issuer_nm=삼성 마스타acquirer_cd=031acquirer_nm=삼성카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=291122558395pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=BYa48o/wUWOsZU1iYM5S06Wd5occ60PI6HOkNJeaIKg=user_nm=관리자1user_id=thanqmall1bk_pay_yn=N]
+0129-112239.912 - 32154 - 20012911215210348189 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20012911214847]
+0129-112239.918 - 32154 - 20012911215210348189 - MSG : PG_서버_접속__정상
+0129-112239.928 - 32154 - 20012911215210348189 - MSG : PG_서버_요청_전문_전송__정상
+0129-112240.468 - 32154 - 20012911215210348189 - MSG : PG_서버_응답_전문_수신__정상
+0129-112240.468 - 32154 - 20012911215210348189 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20012911215210348189order_no=20012911214847amount=15600auth_no=94298572tran_date=20200129112240card_no=5310707000002853issuer_cd=031issuer_nm=삼성 마스타acquirer_cd=031acquirer_nm=삼성카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=291121613478pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=BYa48o/wUWOsZU1iYM5S06Wd5occ60PI6HOkNJeaIKg=user_nm=박영희user_id=01023044442bk_pay_yn=N]
+0129-154559.119 - 26757 - 055424651TFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[5959944250]
+0129-154559.131 - 26757 - 055424651TFmoqMp     - MSG : PG_서버_접속__정상
+0129-154559.141 - 26757 - 055424651TFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0129-154559.546 - 26757 - 055424651TFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0129-154559.546 - 26757 - 055424651TFmoqMp     - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20012911112610333203order_no=20012911111908amount=15600tran_date=20200129154559remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200129154559stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=05542465noti_type=20mgr_amt=15600mgr_card_amt=15600mgr_cpon_amt=0mgr_seqno=20012915455910681265day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0129-154612.479 - 26777 - 055424651TFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[9833260241]
+0129-154612.488 - 26777 - 055424651TFmoqMp     - MSG : PG_서버_접속__정상
+0129-154612.498 - 26777 - 055424651TFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0129-154612.846 - 26777 - 055424651TFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0129-154612.846 - 26777 - 055424651TFmoqMp     - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20012911215210348189order_no=20012911214847amount=15600tran_date=20200129154613remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200129154613stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=05542465noti_type=20mgr_amt=15600mgr_card_amt=15600mgr_cpon_amt=0mgr_seqno=20012915461210681540day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]

@@ -1,0 +1,139 @@
+#!/bin/bash
+# Don't touch the next line; it indicates server IP itself
+#MYIP=`cat /etc/sysconfig/network-scripts/ifcfg-eth0|grep IPADDR|awk -F '=' '{print $2}'`
+
+deny_ip="
+112.223.124.139
+211.234.116.0/24
+191.96.249.0/24"
+
+all_open_port_tcp="
+80
+443
+"
+
+all_open_port_udp="
+53
+123
+25
+"
+
+all_open_ip="
+175.126.226.99
+175.126.226.100
+61.36.222.174
+222.98.175.233
+121.165.82.141
+218.155.196.199
+121.137.211.141
+112.151.181.136
+222.112.112.218
+220.88.200.247
+180.67.204.166
+180.67.204.158
+121.137.211.141
+222.98.175.233
+220.88.200.247
+112.151.181.136
+"
+
+open_ip_port_tcp="
+183.100.244.102:2200
+222.239.11.163:21
+175.126.191.147:2200
+180.67.204.84:2200
+"
+open_ip_port_udp=""
+
+all_open_port_out_tcp=""
+all_open_port_out_udp=""
+
+# 1. Flush previous iptables settings
+iptables -F
+iptables -X
+iptables -P INPUT ACCEPT
+
+# 2. Deny IP
+for ip in $deny_ip
+do
+    echo "iptables -A INPUT -s $ip -j DROP"
+    iptables -A INPUT -s $ip -j DROP
+done
+
+# 3-1. Block NULL packet
+iptables -A INPUT -p tcp --tcp-flags ALL NONE -j DROP
+
+# 3-2. Block SYN flooding
+iptables -A INPUT -p tcp ! --syn -m state --state NEW -j DROP
+
+# 4. Open for localhost & previous connection
+iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+iptables -A INPUT -s 127.0.0.1 -j ACCEPT
+
+# 5-1. Port opened for all(TCP)
+for port in $all_open_port_tcp
+do
+    echo "iptables -A INPUT -p tcp -m tcp --dport $port -j ACCEPT"
+    iptables -A INPUT -p tcp -m tcp --dport $port -j ACCEPT
+done
+
+# 5-2. Port opened for all(UDP)
+for port in $all_open_port_udp
+do
+    echo "iptables -A INPUT -p udp -m udp --dport $port -j ACCEPT"
+    iptables -A INPUT -p udp -m udp --dport $port -j ACCEPT
+done
+
+# 6. IP opened for all ports
+for ip in $all_open_ip
+do
+    echo "iptables -A INPUT -s $ip -j ACCEPT"
+    iptables -A INPUT -s $ip -j ACCEPT
+done
+
+# 7-1. Open IP/Port(TCP)
+for ip_port in $open_ip_port_tcp
+do
+    ip=${ip_port%%:*}
+    port=${ip_port#*:}
+
+    IFS=',' read -a DIV <<< "${port}"
+    for p in "${DIV[@]}";do
+        echo "iptables -A INPUT -p tcp -s $ip --dport $p -j ACCEPT"
+        iptables -A INPUT -p tcp -s $ip --dport $p -j ACCEPT
+    done
+done
+
+# 7-2. Open IP/Port(UDP)
+for ip_port in $open_ip_port_udp
+do
+    ip=${ip_port%%:*}
+    port=${ip_port#*:}
+
+    IFS=',' read -a DIV <<< "${port}"
+    for p in "${DIV[@]}";do
+        echo "iptables -A INPUT -p udp -s $ip --dport $port -j ACCEPT"
+        iptables -A INPUT -p udp -s $ip --dport $port -j ACCEPT
+    done
+done
+
+# 8. Drop all undefined policies
+echo "iptables -A INPUT -j DROP"
+iptables -A INPUT -j DROP
+
+# 9-1. Port opened for all_output(TCP)
+for port in $all_open_port_out_tcp
+do
+    echo "iptables -A OUTPUT -p tcp -m tcp --dport $port -j ACCEPT"
+    iptables -A OUTPUT -p tcp -m tcp --dport $port -j ACCEPT
+done
+
+# 9-2. Port opened for all_output(UDP)
+for port in $all_open_port_out_udp
+do
+    echo "iptables -A OUTPUT -p udp -m udp --dport $port -j ACCEPT"
+    iptables -A OUTPUT -p udp -m udp --dport $port -j ACCEPT
+done
+
+# Attach settings to system
+service iptables save

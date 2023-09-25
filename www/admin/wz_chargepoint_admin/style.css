@@ -1,0 +1,81 @@
+.td_alignc {text-align:center}
+.td_alignr {text-align:right}
+span.vbar {padding: 0 2px;color:#828282;font-size:10px;}
+hr.section-division {display:block;visibility:hidden;clear:both;content:'';height:10px;padding:0;margin:0;}
+
+/* 비고 */
+.sim-bx{float:left}
+.sim-bx .bx-hd{width:127px;height:26px;line-height:26px;border:1px solid #cccccc;background:#f5f5f5}
+.sim-bx .bx-hd p{text-align:center;letter-spacing:-1px;font-size: 11px;padding:4px 0}
+.sim-bx .bx-ft{width:127px;border:1px solid #cccccc;border-top:0}
+.sim-bx .bx-ft p{text-align:center;letter-spacing:-1px;font-size: 11px;background-color:#fff;padding:10px 0;}
+.sim-bx .bx-ft p.important{font-size:12px;letter-spacing:0;}
+.next_box {background:url(./img/ico-calc.png) no-repeat;width:23px;height:23px;display:inline-block;float:left;margin:17px 14px 0 14px}
+.next_box.plus {background-position: 0 0;}
+.next_box.minus {background-position: -46px 0;}
+.next_box.equal {background-position: -46px 0;}
+.blank_box {width:5px;height:13px;display:inline-block;float:left;margin:21px 10px 0 10px}
+.sim-bx.auto .bx-hd {width:auto;}
+.sim-bx.auto .bx-ft {width:auto;line-height:auto;height:auto;}
+
+/* helpguide */
+.help_section table{width:100%;border:0;border-bottom:1px solid #dadada;border-right:1px solid #dadada;border-spacing:0;table-layout:fixed}
+.help_section table td,.help_section table th{border:0;border-top:1px solid #dadada;border-left:1px solid #dadada;color:#333}
+.help_section table th{background-color:#f2f4f5;vertical-align:top}
+.help_section table td{background-color:#fff;vertical-align:top}
+.help_section table .inner{overflow:hidden;border-top:1px solid #fff;letter-spacing:-1px;text-align:left}
+.help_section table th .inner{padding:15px 0 0 11px;border-left:1px solid #fff}
+.help_section .faq_lst{overflow:hidden;margin:11px 40px 11px 11px;line-height:20px;padding:0;}
+.help_section .faq_lst li{overflow:hidden;padding-left:8px;background:url(./img/bu_dot4.png) no-repeat 1px 8px}
+.help_section .faq_lst li a{color:#333;text-decoration:none}
+.help_section .faq_lst li a.tx{text-decoration:underline}
+.help_section .faq_lst p{display:inline-block;float:left}
+
+.tbl_bx td.sun p {color:red;}
+.tbl_bx td.sat p {color:blue;}
+
+.btn_frmline2 {display:inline-block;padding:0 7px;height:24px;border:0;background:#f00;color:#fff !important;letter-spacing:-0.1em;text-decoration:none;vertical-align:middle;line-height:2em} /* 우편번호검색버튼 등 */
+.btn_frmline2:focus, .btn_frmline2:hover, .btn_frmline2:active {text-decoration:none}
+
+span.txheader {font-family:'돋움',Dotum,Verdana,applegothic;font-size:11px;letter-spacing:-1px;display:inline-block;padding:1px 3px;border-radius:2px;line-height:11px;height:11px;text-align:center;}
+span.txheader.done {color:#ffffff;border:1px solid #000a80;background-color:#033aff;}
+span.txheader.stay {color:#000000;border:1px solid #929292;background-color:#AFAFAF;}
+span.txheader.live {color:#ffffff;border:1px solid #1B58C7;background-color:#2E92FA;}
+span.txheader.canc {color:#ffffff;border:1px solid #982D2D;background-color:#FA2E2E;}
+span.txheader.bloc {color:#ffffff;border:1px solid #808080;background-color:#888888;}
+.rm-info {display:block;margin:6px;text-align:left;}
+.rm-info .use-dt {margin-left:5px;}
+
+button.btn-sm1 {margin:0;padding:5px;border:1px solid #ced9de;background:#f6f9fa;font-size:0.95em;vertical-align:middle;cursor:pointer}
+.rm-plist {margin:0;padding:0;}
+.rm-plist li {list-style:none;padding:2px 0}
+.wz-label {font-family:'dotum';font-size:11px;font-weight:400;letter-spacing:-1px;height:auto;background: #444;color: #fff;text-decoration: none;vertical-align: middle;line-height:1.6em;padding:0 7px;display:inline-block;border:0;border-radius:3px;}
+a.wz-label {color:#fff}
+.wz-label.red {background:red;color: #fff}
+.wz-label.gray {background:#bdbdbd;color:#000}
+.cancel-info {border:1px solid #dfdfdf;margin:0 6px;padding:2px;font-size:11px;font-family: Verdana,applegothic;letter-spacing:-1px;background-color:#f7f7f7;}
+
+.tbl_into,.tbl_into th,.tbl_into td{border:0;}
+.tbl_into{width:340px;text-align:center;margin: 7px 0 0px;}
+.tbl_into table {clear:both;width:100%;border-collapse:collapse;border-spacing:0;}
+.tbl_into tbody, .tbl_into tr, .tbl_into td {vertical-align:middle}
+.tbl_into caption{display:none}
+.tbl_into th{padding:4px 0;border:1px solid #dcdcdc;color:#666;text-align:center;font-family:'돋움',dotum;font-size:11px;letter-spacing: -1px;font-weight:bold;background-color: #fbfbfb;}
+.tbl_into tbody td{padding:4px 0;border:1px solid #e5e5e5;color:#4c4c4c;font-family: '돋움',Dotum,Verdana,applegothic;font-size:11px;letter-spacing: -1px;line-height: 0.95em;background-color: #fff;}
+.tbl_into th span.last:after {border:none;}
+.tbl_into td .numberic {text-align:right;padding-right:4px;}
+
+.tbl_type,.tbl_type th,.tbl_type td{border:0;}
+.tbl_type{width:100%;border-top:1px solid #dcdcdc;border-bottom:1px solid #dcdcdc;border-collapse:collapse}
+.tbl_type caption{display:none}
+.tbl_type tfoot{background-color:#f5f7f9;font-weight:bold}
+.tbl_type th{padding:7px 0 4px;border:1px solid #dcdcdc;background-color:#f5f7f9;color:#666;font-weight:bold;text-align:center;}
+.tbl_type td{padding:6px 6px;border:1px solid #e5e5e5;color:#4c4c4c}
+.tbl_type th.center, .tbl_type td.center {text-align:center}
+.frm_input.number {text-align:right;padding-right:3px;}
+
+#pay-input-no {margin:20px;padding:10px;border: 1px solid #dadada;}
+
+.weeks .closed {color:red;text-decoration:line-through}
+.wrap-opt-list {margin:2px 6px;padding:2px 5px;background-color:#f7f7f7;border:1px solid #dfdfdf}
+.wrap-opt-list > .list {text-align:left;margin:0px;}

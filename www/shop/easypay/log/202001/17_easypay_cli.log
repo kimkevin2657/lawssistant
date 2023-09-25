@@ -1,0 +1,40 @@
+0117-091240.395 - 29198 - 20011709120110227025 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20011709115737]
+0117-091240.403 - 29198 - 20011709120110227025 - MSG : PG_서버_접속__정상
+0117-091240.414 - 29198 - 20011709120110227025 - MSG : PG_서버_요청_전문_전송__정상
+0117-091240.662 - 29198 - 20011709120110227025 - MSG : PG_서버_응답_전문_수신__정상
+0117-091240.662 - 29198 - 20011709120110227025 - MSG : ENDED - res=[res_cd=8722res_msg=ISP승인대상 가맹점임cno=20011709120110227025order_no=20011709115737issuer_cd=016issuer_nm=KB국민카드acquirer_cd=016acquirer_nm=KB국민카드]
+0117-105736.785 -  7227 - 20011710555710320187 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20011710555178]
+0117-105736.793 -  7227 - 20011710555710320187 - MSG : PG_서버_접속__정상
+0117-105736.803 -  7227 - 20011710555710320187 - MSG : PG_서버_요청_전문_전송__정상
+0117-105737.269 -  7227 - 20011710555710320187 - MSG : PG_서버_응답_전문_수신__정상
+0117-105737.269 -  7227 - 20011710555710320187 - MSG : ENDED - res=[res_cd=0000res_msg=단독승인 정상cno=20011710555710320187order_no=20011710555178amount=10500auth_no=17600238tran_date=20200117105737card_no=5243350000009329issuer_cd=008issuer_nm=하나카드acquirer_cd=008acquirer_nm=하나카드noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=171012847906pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=gzzqCE3zZzWbQbSZ9//9XAampJadTucS5ZhQU9GUU/g=user_nm=김성근user_id=01029123453bk_pay_yn=N]
+0117-105859.885 -  7303 - 055424651HFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[8765937145]
+0117-105859.890 -  7303 - 055424651HFmoqMp     - MSG : PG_서버_접속__정상
+0117-105859.901 -  7303 - 055424651HFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0117-105900.139 -  7303 - 055424651HFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0117-105900.139 -  7303 - 055424651HFmoqMp     - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20011710555710320187order_no=20011710555178amount=10500tran_date=20200117105900remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200117105900stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=05542465noti_type=20mgr_amt=10500mgr_card_amt=10500mgr_cpon_amt=0mgr_seqno=20011710590010323357day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0117-110056.850 -  7594 - 20011711002910324822 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20011711002523]
+0117-110056.856 -  7594 - 20011711002910324822 - MSG : PG_서버_접속__정상
+0117-110056.866 -  7594 - 20011711002910324822 - MSG : PG_서버_요청_전문_전송__정상
+0117-110057.170 -  7594 - 20011711002910324822 - MSG : PG_서버_응답_전문_수신__정상
+0117-110057.170 -  7594 - 20011711002910324822 - MSG : ENDED - res=[res_cd=8724res_msg=인터넷 승인 인증결제 오류cno=20011711002910324822order_no=20011711002523issuer_cd=026issuer_nm=부산비씨카드acquirer_cd=026acquirer_nm=부산비씨카드]
+0117-110425.196 -  8354 - 20011711035310328377 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20011711034350]
+0117-110425.202 -  8354 - 20011711035310328377 - MSG : PG_서버_접속__정상
+0117-110425.212 -  8354 - 20011711035310328377 - MSG : PG_서버_요청_전문_전송__정상
+0117-110425.405 -  8354 - 20011711035310328377 - MSG : PG_서버_응답_전문_수신__정상
+0117-110425.405 -  8354 - 20011711035310328377 - MSG : ENDED - res=[res_cd=8722res_msg=ISP승인대상 가맹점임cno=20011711035310328377order_no=20011711034350issuer_cd=016issuer_nm=KB국민카드acquirer_cd=016acquirer_nm=KB국민카드]
+0117-211819.734 -  5982 - 20011721171010875505 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20011721170819]
+0117-211819.739 -  5982 - 20011721171010875505 - MSG : PG_서버_접속__정상
+0117-211819.749 -  5982 - 20011721171010875505 - MSG : PG_서버_요청_전문_전송__정상
+0117-211820.041 -  5982 - 20011721171010875505 - MSG : PG_서버_응답_전문_수신__정상
+0117-211820.041 -  5982 - 20011721171010875505 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20011721171010875505order_no=20011721170819amount=129000auth_no=00822173tran_date=20200117211819card_no=6243680000004438issuer_cd=027issuer_nm=현대 카드acquirer_cd=027acquirer_nm=현대카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=172122138959pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=q6U40dIOL9cWHWsEwIK5GJt8a5eDaa29FfOrNWNV33s=user_nm=관리자user_id=adminbk_pay_yn=N]
+0117-211826.810 -  5997 - 055424651HFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[1480042648]
+0117-211826.816 -  5997 - 055424651HFmoqMp     - MSG : PG_서버_접속__정상
+0117-211826.826 -  5997 - 055424651HFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0117-211827.054 -  5997 - 055424651HFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0117-211827.054 -  5997 - 055424651HFmoqMp     - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20011721171010875505order_no=20011721170819amount=129000tran_date=20200117211826remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200117211826stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=05542465noti_type=20mgr_amt=129000mgr_card_amt=129000mgr_cpon_amt=0mgr_seqno=20011721182610876518day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0117-213009.710 -  7265 - 055424651HFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[7837256363]
+0117-213009.720 -  7265 - 055424651HFmoqMp     - MSG : PG_서버_접속__정상
+0117-213009.730 -  7265 - 055424651HFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0117-213009.941 -  7265 - 055424651HFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0117-213009.941 -  7265 - 055424651HFmoqMp     - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20011721293210884505order_no=20011721292888amount=270700tran_date=20200117213009remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200117213009stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=05542465noti_type=20mgr_amt=270700mgr_card_amt=270700mgr_cpon_amt=0mgr_seqno=20011721300910884947day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]

@@ -1,0 +1,5 @@
+0405-002340.489 - 11950 - 20040500220610948671 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20040500213897]
+0405-002340.497 - 11950 - 20040500220610948671 - MSG : PG_서버_접속__정상
+0405-002340.508 - 11950 - 20040500220610948671 - MSG : PG_서버_요청_전문_전송__정상
+0405-002340.792 - 11950 - 20040500220610948671 - MSG : PG_서버_응답_전문_수신__정상
+0405-002340.792 - 11950 - 20040500220610948671 - MSG : ENDED - res=[res_cd=0000res_msg=정상cno=20040500220610948671order_no=20040500213897amount=76000auth_no=30020341tran_date=20200405002341card_no=5409471100002017issuer_cd=016issuer_nm=KB국민카드acquirer_cd=016acquirer_nm=KB국민카드noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=050021122348cc_expr_date=8911pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=AcBcWYy/pUOCTOFMRZTUCR59jkhIwAYKmCAy7GiwuK8=user_nm=안춘자user_id=01088022846bk_pay_yn=N]

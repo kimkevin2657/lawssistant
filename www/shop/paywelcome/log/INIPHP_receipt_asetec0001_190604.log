@@ -1,0 +1,185 @@
+INFO	[2019-06-04 09:25:52:232] <52359> START INIPHP receipt (V5036-141209)(OS:Linux2.6.32-696.20.1.el6.x86_64,PHP:5.5.17p1)
+DEBUG	[2019-06-04 09:25:52:232] <52359> inipayhome:/home/hosting_users/k2k9company/www/shop/inicis
+DEBUG	[2019-06-04 09:25:52:232] <52359> debug:false
+DEBUG	[2019-06-04 09:25:52:232] <52359> type:receipt
+DEBUG	[2019-06-04 09:25:52:232] <52359> pgid:INIphpRECP
+DEBUG	[2019-06-04 09:25:52:232] <52359> paymethod:CASH
+DEBUG	[2019-06-04 09:25:52:232] <52359> currency:WON
+DEBUG	[2019-06-04 09:25:52:232] <52359> admin:1111
+DEBUG	[2019-06-04 09:25:52:232] <52359> mid:asetec0001
+DEBUG	[2019-06-04 09:25:52:232] <52359> goodname:국산신제품파르망메모리폼기능성베개부부세트2개세트
+DEBUG	[2019-06-04 09:25:52:232] <52359> cr_price:36180
+DEBUG	[2019-06-04 09:25:52:232] <52359> sup_price:32891
+DEBUG	[2019-06-04 09:25:52:232] <52359> tax:3289
+DEBUG	[2019-06-04 09:25:52:232] <52359> srvc_price:0
+DEBUG	[2019-06-04 09:25:52:232] <52359> buyername:윤수옥
+DEBUG	[2019-06-04 09:25:52:232] <52359> buyeremail:blacknc@hanmail.net
+DEBUG	[2019-06-04 09:25:52:232] <52359> buyertel:
+DEBUG	[2019-06-04 09:25:52:232] <52359> reg_num:01030826660
+DEBUG	[2019-06-04 09:25:52:232] <52359> useopt:0
+DEBUG	[2019-06-04 09:25:52:232] <52359> companynumber:
+INFO	[2019-06-04 09:25:52:232] <52359> Check Field OK
+INFO	[2019-06-04 09:25:52:232] <52359> Make TID OK INIphpRECPasetec000120190604092552323777
+INFO	[2019-06-04 09:25:52:232] <52359> PI PUB KEY LOAD OK []
+INFO	[2019-06-04 09:25:52:242] <52359> PG PUB KEY LOAD OK [30]
+INFO	[2019-06-04 09:25:52:258] <52359> MERCHANT PRIV KEY LOAD OK
+INFO	[2019-06-04 09:25:52:266] <52359> MERCHANT PUB KEY LOAD OK [0]
+DEBUG	[2019-06-04 09:25:52:299] <52359> MAKE ENCRYPT OK[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+	  <Payment>
+	    <CASH>
+	      <CSHR_ApplPrice>36180</CSHR_ApplPrice>
+	      <CSHR_SupplyPrice>32891</CSHR_SupplyPrice>
+	      <CSHR_Tax>3289</CSHR_Tax>
+	      <CSHR_ServicePrice/>
+	      <CSHR_Type>0</CSHR_Type>
+	      <CSHR_RegNum>01030826660</CSHR_RegNum>
+	      <CSHR_CompanyNum/></CASH></Payment></PaymentInfo>]
+INFO	[2019-06-04 09:25:52:301] <52359> MAKE BODY OK
+INFO	[2019-06-04 09:25:52:302] <52359> SIGN OK
+INFO	[2019-06-04 09:25:52:302] <52359> MAKE HEAD OK
+INFO	[2019-06-04 09:25:52:302] <52359> MSG_TO_PG:[0196000175D SHA1                   0                                      300200asetec0001               36180INIphpRECPasetec000120190604092552323777<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+	  <GoodsInfo>
+	    <GoodsCnt>1</GoodsCnt>
+	    <MOID/>
+	    <Currency>WON</Currency>
+	    <Tax>3289</Tax>
+	    <TaxFree/>
+	    <Goods>
+	      <SMID>asetec0001</SMID>
+	      <GoodsName urlencode="1">%B1%B9%BB%EA%BD%C5%C1%A6%C7%B0%C6%C4%B8%A3%B8%C1%B8%DE%B8%F0%B8%AE%C6%FB%B1%E2%B4%C9%BC%BA%BA%A3%B0%B3%BA%CE%BA%CE%BC%BC%C6%AE2%B0%B3%BC%BC%C6%AE</GoodsName>
+	      <GoodsPrice>36180</GoodsPrice></Goods></GoodsInfo>
+	  <BuyerInfo>
+	    <BuyerName urlencode="1">%C0%B1%BC%F6%BF%C1</BuyerName>
+	    <BuyerTel/>
+	    <BuyerEmail urlencode="1">blacknc%40hanmail.net</BuyerEmail>
+	    <ParentEmail/>
+	    <RecvName/>
+	    <RecvTel/>
+	    <RecvMsg/>
+	    <RecvAddr/>
+	    <RecvPostNum/></BuyerInfo>
+	  <PaymentInfo>
+	    <Payment>
+	      <PayMethod>CASH</PayMethod>
+	      <JoinCard/>
+	      <JoinExpire/>
+	      <MailOrder/>
+	      <SessionKey>jM0rXx04kq95vLaJIZ6+f3ZN/B1K0SWepYlqom7hjKKGdA1Wp5noqyV+Spxc+syV
+SewI7NFnS95H0RyvFEQDRbb5PtW4y/eXv9z2+5U27DM6KNQ8MCYxDahvTel7sC3f
+tNoQUTccZ1sWnLe1lCeDuTpbkX2WERblT6yP+ZUdtcRXAgcgQhhndw==
+</SessionKey>
+	      <Encrypted>ePl9VidqGJ1XA0F32P6LpWHKwuP3ew19NdjwwSW/TKA3gRHPYiDwILvGlANuQmyI
+TSRGLwWyDWudMOueCvxHGMrLt0SG7NaQJOncYzRmbH1SBav4lYEDF0IbEFJ+tik+
+3pMd8UGrNud20lzg5r4RvkCQbAQUBPK63/aXHTeufn4EwCcZdvn6aigoagrdPQk7
+eE/2CIonArzY9M9/1eeZHo7s3cbCkp1edm5AkdouVUppYNxpWxKprAJmJ77TDfF/
+X8WfC6tHf9Se+t1EXOlV+x1Cu5U1/lbUVYFR0pw4kQ6xDYJxEozOIwhjNvmlVwCg
+vOQM/nZ1j1rbnyIlLapoD+s75lDPhuPjTQdvZfCNJuP7oC4XCOk5FfULQuye8rWz
+lLR503KQ0MRQifir1IxcHsWT6EbBS3Y1NSHkExTZwKyR7dRqABC5JLudRbuBTfBd
+Sbs4wTTCkJ41Cw9TboUObyqDDCJ0xkeUJlGDf5IRz/1VfDgzNUNC3g==
+</Encrypted></Payment></PaymentInfo>
+	  <ReservedInfo>
+	    <MReserved1/>
+	    <MReserved2/>
+	    <MReserved3/></ReservedInfo>
+	  <ManageInfo>
+	    <Language/>
+	    <URL/>
+	    <TXVersion>5036B141209receiLinux     PHPchkfake   2.6.32-696.20.1.el6.x86_64PHP:</TXVersion>
+	    <TXUserID/>
+	    <TXRegNum/>
+	    <Ack>1</Ack></ManageInfo></INIpay>AShT5aR+h1P9DNLsrQYV8z+SdVRyXzH7czy0wYVuBGY/qq4XlkbtchNYRv5kRe5B
+qziV0nexkTrHJxnLQKsdi+5s6vCvnaRTiLDp0C9GyVvmCfZoqcrXihms9VYbf0Pa
+lxhKRfHCFQ1gJAePh+/1VTbYwzFP3Q++A/A33rUVB1ZL
+]
+INFO	[2019-06-04 09:25:52:302] <52359> DNS LOOKUP OK(203.238.37.3:203.238.37.3:34049) laptime:0
+INFO	[2019-06-04 09:25:52:303] <52359> SOCKET CONNECT OK
+INFO	[2019-06-04 09:25:52:303] <52359> SEND OK
+INFO	[2019-06-04 09:25:52:651] <52359> RECV OK
+INFO	[2019-06-04 09:25:52:651] <52359> MSG_FROM_PG:[0229000175D SHA1                   0                                      300210asetec0001               36180INIphpRECPasetec000120190604092552323777<?xml version="1.0" encoding="UTF-8"?>
+<INIpay>
+  <GoodsInfo>
+    <GoodsCnt>1</GoodsCnt>
+    <MOID urlencode="1"></MOID>
+    <Currency>WON</Currency>
+    <Goods no="1">
+      <SMID>asetec0001</SMID>
+      <GoodsName urlencode="1">%B1%B9%BB%EA%BD%C5%C1%A6%C7%B0%C6%C4%B8%A3%B8%C1%B8%DE%B8%F0%B8%AE%C6%FB%B1%E2%B4%C9%BC%BA%BA%A3%B0%B3%BA%CE%BA%CE%BC%BC%C6%AE2%B0%B3%BC%BC%C6%AE</GoodsName>
+      <GoodsCntS>1</GoodsCntS>
+      <GoodsPrice>36180</GoodsPrice>
+    </Goods>
+  </GoodsInfo>
+  <PaymentInfo>
+    <Payment>
+      <SessionKey>ASxJn8aIAdRDsS7VVdCCcUyf8hvRoiAXKuSywS8r632S20SP66robQXOIOaEir4e
++xgJHOyCV03ggolumdAdKQe/DIPRon2fClDepxM2AQuPxLIaU7CxqXEyES+l0xl3
+CE0FjTjWDzBvTUwboBStUl7Cc8FToi8kv/7czkBFttrmusc9Wf2fpMk=
+</SessionKey>
+      <Encrypted>AGxoZgvltJey9n44q/Uzi+W238rf6P1rlZEKa6siZbIo5KMpOT1kMOKLVaCdjn0+
+AEHOHq9/Cl48nD462PG4otcgEsPiQkugxH+WDyQPrJo2yK6w/AAHsdGc41POiB2n
+lAWrKfwzcSyiiXReZTM1rN5EX6jI3nob5tX874mgaOlBTh66gHYqzSuIIJ+/fMsM
+tmDaknGM6L/i5+lOykcfOKs0YbHeLq07sRkKUvSgQRoSsNYPwSgN5TA9iyaLGG5l
+sxl1nPB4Ol3sQGQXKzRkkj7+ELQW6SFANF0nzsrqvezyeOR6cjyIctfd30pm9Vs0
+VcymPz5712x6jLzlpQ9zBSxDmecBDOZb6XZ0HIohwY6ciD8Ilg8+Rkg3cFnaA8iy
+SiWf3Q20+9I2Dqe9tRwY/z+yCmjflbURxfqU0YLl6dN4hxiPt+Ym2MADAZLtMdBh
+tV8WkFiwUGJGU7gVcPjABmZOYvGnEdoJeSvBBIAaWKAQj93ng1MNha5yRgmn23gS
+kBfVXoL3K9mRmeiA3TFOTCOmhCaVkvZobrxafuZQlxEtaofs0uj/2eLDlrsPDvFk
+KDN3hp9re9z5e53jMkm0UEm1XoHBvRjU9oM10ZGf4Ahso59rij/xU2VYiqMy/G0B
+ui9Leh0d5TMDDCohmp6ZjsSBUBav5UZJVkFXVHTbXMM3RCYFvF+NJD5JeJwAEH+q
+gx3kqHimsrDtnrHU9o+YoKhCrhumr0kAq4pgWu9x/jjC+gONKhcHsIfQA3uaU0bS
+2ET5CRuwWSrLL4Mx+wu6XlZMEcu0sxXz2XQTfB1y3L2Li517Fxt4nbRM6ENq+Z4e
+b5cwPjLjjxw=
+</Encrypted>
+      <PayMethod>CASH</PayMethod>
+      <ResultCode>220000</ResultCode>
+      <ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</ResultMsg>
+    </Payment>
+  </PaymentInfo>
+  <ManageInfo>
+    <EventCode></EventCode>
+    <OrgCurrency></OrgCurrency>
+    <ExchangeRate></ExchangeRate>
+    <OrgPrice></OrgPrice>
+  </ManageInfo>
+  <ReservedInfo>
+    <MReserved1 urlencode="1"></MReserved1>
+    <MReserved2 urlencode="1"></MReserved2>
+    <MReserved3 urlencode="1"></MReserved3>
+    <PGReserved1 urlencode="1"></PGReserved1>
+    <PGReserved2 urlencode="1"></PGReserved2>
+    <PGReserved3 urlencode="1"></PGReserved3>
+  </ReservedInfo>
+</INIpay>
+Ma6FmDB2HBkS4vCDPVnIhu1banEhHahtm8pX4jonLxWQP/LzMVkg2D3YrkYb8CHt
+qwBUoLLdd1Vt3g+5EwgkMM93QGvOZy57zuJx+ZyCCoa4aunvZznhB2UzDS7zslfm
+FuNqjDkUJq0dJG6hLegsW8wXB8ozcXd2PIN8vBD1ymI=
+]
+INFO	[2019-06-04 09:25:52:651] <52359> VERIFY OK
+INFO	[2019-06-04 09:25:52:651] <52359> PARSE HEAD OK
+INFO	[2019-06-04 09:25:52:654] <52359> PARSE BODY OK
+INFO	[2019-06-04 09:25:52:670] <52359> DECRYPT OK
+DEBUG	[2019-06-04 09:25:52:670] <52359> DECRYPT MSG:[<?xml version="1.0" encoding="UTF-8"?>
+<PaymentInfo>
+  <Payment>
+    <EASYPAY/>
+    <CASH>
+      <CSHR_ApplPrice>36180</CSHR_ApplPrice>
+      <CSHR_SupplyPrice>32891</CSHR_SupplyPrice>
+      <CSHR_Tax>3289</CSHR_Tax>
+      <CSHR_ServicePrice></CSHR_ServicePrice>
+      <CSHR_Type>0</CSHR_Type>
+      <CSHR_ApplDate>20190604</CSHR_ApplDate>
+      <CSHR_ApplTime>092553</CSHR_ApplTime>
+      <CSHR_ApplNum>265411658</CSHR_ApplNum>
+      <CSHR_ResultCode>220000</CSHR_ResultCode>
+      <CSHR_ResultMsg urlencode="1">%C1%A4%BB%F3%C3%B3%B8%AE%B5%C7%BE%FA%BD%C0%B4%CF%B4%D9.</CSHR_ResultMsg>
+    </CASH>
+  </Payment>
+</PaymentInfo>]
+INFO	[2019-06-04 09:25:52:672] <52359> DECRYPT PARSE OK
+INFO	[2019-06-04 09:25:52:672] <52359> WAIT ACK INVOKING
+DEBUG	[2019-06-04 09:25:52:672] <52359> MAKE HEAD OK
+INFO	[2019-06-04 09:25:52:673] <52359> SUCCESS ACK INVOKING
+INFO	[2019-06-04 09:25:52:673] <52359> END receipt 정상처리되었습니다. Laptime:[0.442sec]
+INFO	[2019-06-04 09:25:52:674] <52359> ===============================================================

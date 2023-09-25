@@ -1,0 +1,20 @@
+0206-001014.811 -  7319 - 20020600090810709077 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20020600085590]
+0206-001014.821 -  7319 - 20020600090810709077 - MSG : PG_서버_접속__정상
+0206-001014.831 -  7319 - 20020600090810709077 - MSG : PG_서버_요청_전문_전송__정상
+0206-001015.288 -  7319 - 20020600090810709077 - MSG : PG_서버_응답_전문_수신__정상
+0206-001015.288 -  7319 - 20020600090810709077 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20020600090810709077order_no=20020600085590amount=8850auth_no=40127565tran_date=20200206001014card_no=377988050000198issuer_cd=029issuer_nm=신한카드acquirer_cd=029acquirer_nm=신한카드noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=060021798484pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=8BJLE0iAAobAan564zr/j5uXVqiGW8RuS7zTa8WvjnI=user_nm=최명숙user_id=01056740500bk_pay_yn=N]
+0206-202453.234 - 32270 - 20020620202810540462 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20020620201028]
+0206-202453.242 - 32270 - 20020620202810540462 - MSG : PG_서버_접속__정상
+0206-202453.253 - 32270 - 20020620202810540462 - MSG : PG_서버_요청_전문_전송__정상
+0206-202453.573 - 32270 - 20020620202810540462 - MSG : PG_서버_응답_전문_수신__정상
+0206-202453.573 - 32270 - 20020620202810540462 - MSG : ENDED - res=[res_cd=0000res_msg=정상cno=20020620202810540462order_no=20020620201028amount=270000auth_no=30039937tran_date=20200206202452card_no=4579733800008041issuer_cd=016issuer_nm=KB국민카드acquirer_cd=016acquirer_nm=KB국민카드noint=03install_period=06used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=062012382299cc_expr_date=8911pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=8yDLgMkMAPK7jJeNdGDo6eAdVk173FzJWG7HnkI2YAE=user_nm=유희복user_id=01074557747bk_pay_yn=N]
+0206-205658.419 -  2841 - 20020620543310571354 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20020620540580]
+0206-205658.428 -  2841 - 20020620543310571354 - MSG : PG_서버_접속__정상
+0206-205658.438 -  2841 - 20020620543310571354 - MSG : PG_서버_요청_전문_전송__정상
+0206-205659.161 -  2841 - 20020620543310571354 - MSG : PG_서버_응답_전문_수신__정상
+0206-205659.161 -  2841 - 20020620543310571354 - MSG : ENDED - res=[res_cd=0000res_msg=정상cno=20020620543310571354order_no=20020620540580amount=270000auth_no=30039948tran_date=20200206205657card_no=4579733100000021issuer_cd=016issuer_nm=KB국민카드acquirer_cd=016acquirer_nm=KB국민카드noint=03install_period=06used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=062011518468cc_expr_date=8911pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=G/P+IuH5r8jXZTgLdord8qAxDubOtbK5y0ImmYkFkcM=user_nm=유희복user_id=01074557747bk_pay_yn=N]
+0206-222218.538 - 11439 - 20020622212110654448 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20020622211701]
+0206-222218.547 - 11439 - 20020622212110654448 - MSG : PG_서버_접속__정상
+0206-222218.557 - 11439 - 20020622212110654448 - MSG : PG_서버_요청_전문_전송__정상
+0206-222218.790 - 11439 - 20020622212110654448 - MSG : PG_서버_응답_전문_수신__정상
+0206-222218.790 - 11439 - 20020622212110654448 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20020622212110654448order_no=20020622211701amount=16800auth_no=59538436tran_date=20200206222217card_no=4670085000005609issuer_cd=045issuer_nm=롯데카드acquirer_cd=047acquirer_nm=롯데카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=062212792770pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=AGzh1eB+xEdkXUvLgON2qKfeIhlJl8F+RSPbfjYtZd4=user_nm=이초기user_id=01079427259bk_pay_yn=N]

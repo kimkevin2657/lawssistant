@@ -1,0 +1,10 @@
+0207-144325.645 - 11669 - 20020714424710215656 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20020714424436]
+0207-144325.650 - 11669 - 20020714424710215656 - MSG : PG_서버_접속__정상
+0207-144325.660 - 11669 - 20020714424710215656 - MSG : PG_서버_요청_전문_전송__정상
+0207-144326.086 - 11669 - 20020714424710215656 - MSG : PG_서버_응답_전문_수신__정상
+0207-144326.086 - 11669 - 20020714424710215656 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20020714424710215656order_no=20020714424436amount=35300auth_no=04480433tran_date=20200207144325card_no=5286380000009815issuer_cd=029issuer_nm=신한카드acquirer_cd=029acquirer_nm=신한카드noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=071412512232pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=ajAGuTKmZYlaniCrhgJufRPWyOeF2eQO8wXcN6LSyLY=user_nm=김민선user_id=01059122463bk_pay_yn=N]
+0207-145654.205 - 13305 - 20020714563010229482 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20020714562729]
+0207-145654.211 - 13305 - 20020714563010229482 - MSG : PG_서버_접속__정상
+0207-145654.221 - 13305 - 20020714563010229482 - MSG : PG_서버_요청_전문_전송__정상
+0207-145654.782 - 13305 - 20020714563010229482 - MSG : PG_서버_응답_전문_수신__정상
+0207-145654.782 - 13305 - 20020714563010229482 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20020714563010229482order_no=20020714562729amount=27400auth_no=04620706tran_date=20200207145654card_no=5286380000009815issuer_cd=029issuer_nm=신한카드acquirer_cd=029acquirer_nm=신한카드noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=071411603445pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=ajAGuTKmZYlaniCrhgJufRPWyOeF2eQO8wXcN6LSyLY=user_nm=김민선user_id=01059122463bk_pay_yn=N]

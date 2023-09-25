@@ -1,0 +1,120 @@
+0110-001138.385 - 28162 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-001138.393 - 28162 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-001138.404 - 28162 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-001138.453 - 28162 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-001138.453 - 28162 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=C043res_msg=취소 가능 금액 부족 [담당자 연락요망] 02-368-0869, 0797cno=20010923555410586698order_no=20010923471129memb_id=05542465]
+0110-001359.627 - 28284 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-001359.633 - 28284 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-001359.643 - 28284 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-001359.681 - 28284 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-001359.681 - 28284 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=C043res_msg=취소 가능 금액 부족 [담당자 연락요망] 02-368-0869, 0797cno=20010923555410586698order_no=20010923471129memb_id=05542465]
+0110-001504.393 - 28527 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-001504.402 - 28527 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-001504.412 - 28527 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-001504.452 - 28527 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-001504.452 - 28527 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=C043res_msg=취소 가능 금액 부족 [담당자 연락요망] 02-368-0869, 0797cno=20010923555410586698order_no=20010923471129memb_id=05542465]
+0110-001512.784 - 28535 - 055424561AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542456]+order_no=[]
+0110-001512.789 - 28535 - 055424561AFmoqMp     - MSG : PG_서버_접속__정상
+0110-001512.800 - 28535 - 055424561AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-001512.826 - 28535 - 055424561AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-001512.826 - 28535 - 055424561AFmoqMp     - MSG : ENDED - res=[res_cd=E203res_msg=원 승인거래 가맹점ID 불일치]
+0110-001533.670 - 28562 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-001533.679 - 28562 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-001533.689 - 28562 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-001533.741 - 28562 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-001533.741 - 28562 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=C043res_msg=취소 가능 금액 부족 [담당자 연락요망] 02-368-0869, 0797cno=20010923555410586698order_no=20010923471129memb_id=05542465]
+0110-001744.868 - 28702 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-001744.874 - 28702 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-001744.884 - 28702 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-001744.922 - 28702 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-001744.922 - 28702 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=C043res_msg=취소 가능 금액 부족 [담당자 연락요망] 02-368-0869, 0797cno=20010923555410586698order_no=20010923471129memb_id=05542465]
+0110-001912.539 - 28786 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-001912.545 - 28786 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-001912.555 - 28786 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-001912.593 - 28786 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-001912.594 - 28786 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=C043res_msg=취소 가능 금액 부족 [담당자 연락요망] 02-368-0869, 0797cno=20010923555410586698order_no=20010923471129memb_id=05542465]
+0110-002032.324 - 29056 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-002032.330 - 29056 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-002032.340 - 29056 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-002032.378 - 29056 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-002032.378 - 29056 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=C043res_msg=취소 가능 금액 부족 [담당자 연락요망] 02-368-0869, 0797cno=20010923555410586698order_no=20010923471129memb_id=05542465]
+0110-002910.552 - 29718 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-002910.560 - 29718 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-002910.571 - 29718 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-002910.608 - 29718 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-002910.608 - 29718 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=C043res_msg=취소 가능 금액 부족 [담당자 연락요망] 02-368-0869, 0797cno=20010923555410586698order_no=20010923471129memb_id=05542465]
+0110-003108.893 - 30000 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-003108.902 - 30000 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-003108.913 - 30000 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-003108.950 - 30000 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-003108.951 - 30000 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=C043res_msg=취소 가능 금액 부족 [담당자 연락요망] 02-368-0869, 0797cno=20010923555410586698order_no=20010923471129memb_id=05542465]
+0110-004007.983 - 30960 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-004007.990 - 30960 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-004008.000 - 30960 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-004008.218 - 30960 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-004008.218 - 30960 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20011000354010610377order_no=20011000353818amount=15600tran_date=20200110004008remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200110004008stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=05542465noti_type=20mgr_amt=15600mgr_card_amt=15600mgr_cpon_amt=0mgr_seqno=20011000400710612452day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0110-004033.574 - 30981 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-004033.580 - 30981 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-004033.590 - 30981 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-004033.630 - 30981 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-004033.630 - 30981 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=C043res_msg=취소 가능 금액 부족 [담당자 연락요망] 02-368-0869, 0797cno=20010923555410586698order_no=20010923471129memb_id=05542465]
+0110-004046.691 - 30993 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-004046.696 - 30993 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-004046.706 - 30993 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-004046.743 - 30993 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-004046.743 - 30993 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=C043res_msg=취소가능 금액부족(역환검증 오류)cno=20010923555410586698order_no=20010923471129memb_id=05542465mgr_rem_amt=0]
+0110-004117.673 - 31020 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-004117.678 - 31020 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-004117.689 - 31020 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-004117.734 - 31020 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-004117.734 - 31020 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=C043res_msg=취소 가능 금액 부족 [담당자 연락요망] 02-368-0869, 0797cno=20010923555410586698order_no=20010923471129memb_id=05542465]
+0110-004230.187 - 31089 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-004230.196 - 31089 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-004230.206 - 31089 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-004230.257 - 31089 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-004230.258 - 31089 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=C043res_msg=취소 가능 금액 부족 [담당자 연락요망] 02-368-0869, 0797cno=20010923555410586698order_no=20010923471129memb_id=05542465]
+0110-005155.683 - 31942 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-005155.692 - 31942 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-005155.702 - 31942 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-005155.928 - 31942 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-005155.928 - 31942 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20011000501910617109order_no=20010921044173amount=140000tran_date=20200110005155remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200110005155stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=05542465noti_type=20mgr_amt=140000mgr_card_amt=140000mgr_cpon_amt=0mgr_seqno=20011000515510617830day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0110-010012.290 -   301 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-010012.299 -   301 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-010012.309 -   301 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-010012.514 -   301 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-010012.514 -   301 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20011000583210620528order_no=20011000582820amount=140000tran_date=20200110010012remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200110010012stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=05542465noti_type=20mgr_amt=140000mgr_card_amt=140000mgr_cpon_amt=0mgr_seqno=20011001001210621203day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0110-010040.278 -   324 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-010040.284 -   324 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-010040.294 -   324 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-010040.329 -   324 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-010040.329 -   324 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=P014res_msg=원거래 기취소cno=20011000354010610377order_no=20011000353818memb_id=05542465]
+0110-010047.524 -   331 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-010047.533 -   331 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-010047.543 -   331 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-010047.578 -   331 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-010047.579 -   331 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=P014res_msg=원거래 기취소cno=20011000501910617109order_no=20010921044173memb_id=05542465]
+0110-010057.282 -   340 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-010057.288 -   340 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-010057.298 -   340 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-010057.351 -   340 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-010057.351 -   340 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=0000res_msg=EDI 취소 매입처리로 취소처리됨cno=20010923555410586698order_no=20010923471129amount=140000tran_date=20200110010057remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200110010057stat_cd=TS05stat_msg=매입취소pay_type=11memb_id=05542465noti_type=20mgr_amt=140000mgr_card_amt=140000mgr_cpon_amt=0mgr_seqno=20011001005710621488day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0110-010128.139 -   382 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-010128.144 -   382 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-010128.154 -   382 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-010128.198 -   382 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-010128.198 -   382 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=P021res_msg=원거래는 이미 매입 취소되었습니다cno=20010923555410586698order_no=20010923471129memb_id=05542465]
+0110-010436.781 -  1136 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-010436.787 -  1136 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-010436.797 -  1136 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-010437.014 -  1136 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-010437.014 -  1136 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20011001022610621992order_no=20011001022274amount=29000tran_date=20200110010436remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200110010436stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=05542465noti_type=20mgr_amt=29000mgr_card_amt=29000mgr_cpon_amt=0mgr_seqno=20011001043610622748day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]
+0110-010444.971 -  1143 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[]
+0110-010444.977 -  1143 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-010444.987 -  1143 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-010445.031 -  1143 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-010445.031 -  1143 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=P014res_msg=원거래 기취소cno=20011000583210620528order_no=20011000582820memb_id=05542465]
+0110-010811.454 -  1517 - 055424651AFmoqMp     - MSG : START - tr_cd=[00201000]+mall_id=[05542465]+order_no=[2509757022]
+0110-010811.460 -  1517 - 055424651AFmoqMp     - MSG : PG_서버_접속__정상
+0110-010811.470 -  1517 - 055424651AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-010811.683 -  1517 - 055424651AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-010811.683 -  1517 - 055424651AFmoqMp     - MSG : ENDED - res=[res_cd=0000res_msg=정상취소cno=20011001071210623700order_no=20011001070945amount=30000tran_date=20200110010811remain_pnt=0accrue_pnt=0escrow_yn=Ncanc_date=20200110010811stat_cd=TS02stat_msg=승인취소pay_type=11memb_id=05542465noti_type=20mgr_amt=30000mgr_card_amt=30000mgr_cpon_amt=0mgr_seqno=20011001081110624019day_rem_pnt=0month_rem_pnt=0day_rem_cnt=0bk_pay_yn=N]

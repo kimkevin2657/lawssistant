@@ -1,0 +1,50 @@
+0110-000357.326 - 27401 -         1AFmoqMp     - MSG : START - tr_cd=[]+mall_id=[]+order_no=[]
+0110-000357.332 - 27401 -         1AFmoqMp     - MSG : PG_서버_접속__정상
+0110-000357.342 - 27401 -         1AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-000357.360 - 27401 -         1AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-000357.360 - 27401 -         1AFmoqMp     - MSG : ENDED - res=[res_cd=G102res_msg=거래구분 코드 오류]
+0110-000952.614 - 27892 -         1AFmoqMp     - MSG : START - tr_cd=[]+mall_id=[]+order_no=[]
+0110-000952.627 - 27892 -         1AFmoqMp     - MSG : PG_서버_접속__정상
+0110-000952.637 - 27892 -         1AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-000952.656 - 27892 -         1AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-000952.656 - 27892 -         1AFmoqMp     - MSG : ENDED - res=[res_cd=G102res_msg=거래구분 코드 오류]
+0110-001958.942 - 28832 -         1AFmoqMp     - MSG : START - tr_cd=[]+mall_id=[]+order_no=[]
+0110-001958.948 - 28832 -         1AFmoqMp     - MSG : PG_서버_접속__정상
+0110-001958.958 - 28832 -         1AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-001958.978 - 28832 -         1AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-001958.978 - 28832 -         1AFmoqMp     - MSG : ENDED - res=[res_cd=G102res_msg=거래구분 코드 오류]
+0110-002012.937 - 29039 -         1AFmoqMp     - MSG : START - tr_cd=[]+mall_id=[]+order_no=[]
+0110-002012.946 - 29039 -         1AFmoqMp     - MSG : PG_서버_접속__정상
+0110-002012.956 - 29039 -         1AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-002012.975 - 29039 -         1AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-002012.976 - 29039 -         1AFmoqMp     - MSG : ENDED - res=[res_cd=G102res_msg=거래구분 코드 오류]
+0110-003627.111 - 30590 - 20011000354010610377 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20011000353818]
+0110-003627.121 - 30590 - 20011000354010610377 - MSG : PG_서버_접속__정상
+0110-003627.131 - 30590 - 20011000354010610377 - MSG : PG_서버_요청_전문_전송__정상
+0110-003627.633 - 30590 - 20011000354010610377 - MSG : PG_서버_응답_전문_수신__정상
+0110-003627.634 - 30590 - 20011000354010610377 - MSG : ENDED - res=[res_cd=0000res_msg=인증+승인 정상cno=20011000354010610377order_no=20011000353818amount=15600auth_no=00997000tran_date=20200110003627card_no=6243680000004438issuer_cd=027issuer_nm=현대 카드acquirer_cd=027acquirer_nm=현대카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=100022340596pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=q6U40dIOL9cWHWsEwIK5GJt8a5eDaa29FfOrNWNV33s=user_nm=관리자user_id=adminbk_pay_yn=N]
+0110-004812.455 - 31575 -         1AFmoqMp     - MSG : START - tr_cd=[]+mall_id=[]+order_no=[]
+0110-004812.464 - 31575 -         1AFmoqMp     - MSG : PG_서버_접속__정상
+0110-004812.474 - 31575 -         1AFmoqMp     - MSG : PG_서버_요청_전문_전송__정상
+0110-004812.493 - 31575 -         1AFmoqMp     - MSG : PG_서버_응답_전문_수신__정상
+0110-004812.493 - 31575 -         1AFmoqMp     - MSG : ENDED - res=[res_cd=G102res_msg=거래구분 코드 오류]
+0110-005055.189 - 31891 - 20011000501910617109 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20010921044173]
+0110-005055.195 - 31891 - 20011000501910617109 - MSG : PG_서버_접속__정상
+0110-005055.205 - 31891 - 20011000501910617109 - MSG : PG_서버_요청_전문_전송__정상
+0110-005055.642 - 31891 - 20011000501910617109 - MSG : PG_서버_응답_전문_수신__정상
+0110-005055.642 - 31891 - 20011000501910617109 - MSG : ENDED - res=[res_cd=0000res_msg=인증+승인 정상cno=20011000501910617109order_no=20010921044173amount=140000auth_no=00917794tran_date=20200110005055card_no=6243680000004438issuer_cd=027issuer_nm=현대 카드acquirer_cd=027acquirer_nm=현대카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=100021354394pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=q6U40dIOL9cWHWsEwIK5GJt8a5eDaa29FfOrNWNV33s=user_nm=관리자user_id=adminbk_pay_yn=N]
+0110-005912.329 - 32515 - 20011000583210620528 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20011000582820]
+0110-005912.335 - 32515 - 20011000583210620528 - MSG : PG_서버_접속__정상
+0110-005912.345 - 32515 - 20011000583210620528 - MSG : PG_서버_요청_전문_전송__정상
+0110-005912.754 - 32515 - 20011000583210620528 - MSG : PG_서버_응답_전문_수신__정상
+0110-005912.754 - 32515 - 20011000583210620528 - MSG : ENDED - res=[res_cd=0000res_msg=인증+승인 정상cno=20011000583210620528order_no=20011000582820amount=140000auth_no=00573397tran_date=20200110005912card_no=6243680000004438issuer_cd=027issuer_nm=현대 카드acquirer_cd=027acquirer_nm=현대카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=100012361665pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=q6U40dIOL9cWHWsEwIK5GJt8a5eDaa29FfOrNWNV33s=user_nm=관리자bk_pay_yn=N]
+0110-010302.322 -  1032 - 20011001022610621992 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20011001022274]
+0110-010302.331 -  1032 - 20011001022610621992 - MSG : PG_서버_접속__정상
+0110-010302.341 -  1032 - 20011001022610621992 - MSG : PG_서버_요청_전문_전송__정상
+0110-010302.795 -  1032 - 20011001022610621992 - MSG : PG_서버_응답_전문_수신__정상
+0110-010302.795 -  1032 - 20011001022610621992 - MSG : ENDED - res=[res_cd=0000res_msg=인증+승인 정상cno=20011001022610621992order_no=20011001022274amount=29000auth_no=00668010tran_date=20200110010302card_no=6243680000004438issuer_cd=027issuer_nm=현대 카드acquirer_cd=027acquirer_nm=현대카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=100111364777pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=q6U40dIOL9cWHWsEwIK5GJt8a5eDaa29FfOrNWNV33s=user_nm=관리자user_id=adminbk_pay_yn=N]
+0110-010759.683 -  1496 - 20011001071210623700 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20011001070945]
+0110-010759.689 -  1496 - 20011001071210623700 - MSG : PG_서버_접속__정상
+0110-010759.699 -  1496 - 20011001071210623700 - MSG : PG_서버_요청_전문_전송__정상
+0110-010800.122 -  1496 - 20011001071210623700 - MSG : PG_서버_응답_전문_수신__정상
+0110-010800.122 -  1496 - 20011001071210623700 - MSG : ENDED - res=[res_cd=0000res_msg=인증+승인 정상cno=20011001071210623700order_no=20011001070945amount=30000auth_no=00983239tran_date=20200110010759card_no=6243680000004438issuer_cd=027issuer_nm=현대 카드acquirer_cd=027acquirer_nm=현대카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=100121368679pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=q6U40dIOL9cWHWsEwIK5GJt8a5eDaa29FfOrNWNV33s=user_nm=관리자user_id=adminbk_pay_yn=N]

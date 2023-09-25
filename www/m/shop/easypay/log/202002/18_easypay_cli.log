@@ -1,0 +1,5 @@
+0218-154143.853 -  2672 - 20021815402810774400 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20021815402519]
+0218-154143.858 -  2672 - 20021815402810774400 - MSG : PG_서버_접속__정상
+0218-154143.868 -  2672 - 20021815402810774400 - MSG : PG_서버_요청_전문_전송__정상
+0218-154144.359 -  2672 - 20021815402810774400 - MSG : PG_서버_응답_전문_수신__정상
+0218-154144.359 -  2672 - 20021815402810774400 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20021815402810774400order_no=20021815402519amount=27800auth_no=57183761tran_date=20200218154144card_no=5387208200006543issuer_cd=026issuer_nm=우리카드acquirer_cd=026acquirer_nm=비씨카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=181521423330pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=ntRxm7rbSB9KeP0i9F2+VZLpGSRDkbQ4dElLy436mD4=user_nm=홍대식user_id=01052474732bk_pay_yn=N]

@@ -1,0 +1,5 @@
+0430-043826.364 - 29427 - 20043004364910117294 - MSG : START - tr_cd=[00101000]+mall_id=[05542465]+order_no=[20043004364362]
+0430-043826.373 - 29427 - 20043004364910117294 - MSG : PG_서버_접속__정상
+0430-043826.383 - 29427 - 20043004364910117294 - MSG : PG_서버_요청_전문_전송__정상
+0430-043826.718 - 29427 - 20043004364910117294 - MSG : PG_서버_응답_전문_수신__정상
+0430-043826.719 - 29427 - 20043004364910117294 - MSG : ENDED - res=[res_cd=0000res_msg=MPI결제 정상cno=20043004364910117294order_no=20043004364362amount=25674auth_no=00950178tran_date=20200430043827card_no=5433330500007545issuer_cd=027issuer_nm=현대 마스터acquirer_cd=027acquirer_nm=현대카드사noint=00install_period=00used_pnt=0escrow_yn=Ncomplex_yn=Nstat_cd=TS03stat_msg=매입요청van_tid=2574243van_sno=300411013653pay_type=11memb_id=05542465noti_type=10part_cancel_yn=Ymemb_gubun=2card_gubun=Ncard_biz_gubun=Pcpon_flag=Ncardno_hash=WOIK1GOT5VnWe2FZ/OO2X1nMqlUpaIkLHO2o3pvrxOQ=user_nm=이은경user_id=01071560466bk_pay_yn=N]

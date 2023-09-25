@@ -1,0 +1,1 @@
+2021-06-05 10:27:18|IP : 223.38.17.211 $_POST['P_STATUS'] = '01';$_POST['P_RMESG1'] = '회원님의 요청으로 결제가 취소되었습니다.결제를 원하시는 경우, 다시 진행해 주세요.[SCREENID:421](AV17)';$_POST['P_TID'] = '';$_POST['P_REQ_URL'] = 'https://ksmobile.inicis.com/smart/payReq.ini';$_POST['P_NOTI'] = '1210605102615891';$_POST['P_AMT'] = '15000';
